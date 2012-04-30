@@ -115,8 +115,7 @@ section {
       text-align: right;
       padding-bottom: 110px;
       background-image: url(/images/coworkbuffalo.png);
-      background-position-y: 288px;
-      background-position-x: 50px;
+      background-position: 0% 107%;
       background-repeat: repeat-x;
 
       span {
@@ -174,6 +173,7 @@ section {
 }
 
 #map {
+  cursor: pointer;
   float: right;
   margin-top: 50px;
 

@@ -14,19 +14,22 @@ $(function() {
   location = new MM.Location(42.890595, -78.876607);
   map.setCenterZoom(location, 16);
   lastPosition = 0;
-  return $window.bind('scroll', function() {
+  $window.bind('scroll', function() {
     var currentPosition, pos;
     pos = $window.scrollTop();
     if (pos <= 800) {
       $header.css({
-        'background-position-x': pos - 72
+        'background-position': "" + (pos - 72) + "px 107%"
       });
     }
     if (pos >= 861 && pos <= 1800) {
       currentPosition = Math.floor((pos - 860) / 2) + 1;
       return $herd.css({
-        'background-position-y': currentPosition
+        'background-position': "0 " + currentPosition + "px"
       });
     }
+  });
+  return $("#map").click(function(event) {
+    return window.location = $(this).find("a").attr("href");
   });
 });

@@ -1,0 +1,139 @@
+@font-face {
+  font-family: 'AveriaSansRegular';
+  src: url("/fonts/averiasans-regular-webfont.eot");
+  src: url("/fonts/averiasans-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/averiasans-regular-webfont.woff") format("woff"), url("/fonts/averiasans-regular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'SubtleSansLightRegular';
+  src: url("/fonts/subtlesanslight-webfont.eot");
+  src: url("/fonts/subtlesanslight-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesanslight-webfont.woff") format("woff"), url("/fonts/subtlesanslight-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'SubtleSansRegularRegular';
+  src: url("/fonts/subtlesansregular-webfont.eot");
+  src: url("/fonts/subtlesansregular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesansregular-webfont.woff") format("woff"), url("/fonts/subtlesansregular-webfont.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal; }
+
+/*
+Lots of code based on this plugin:
+
+Plugin: jQuery Parallax
+Version 1.1
+Author: Ian Lunn
+Author URL: http://www.ianlunn.co.uk/
+Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
+
+License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
+*/
+body {
+  min-width: 980px;
+  background: #110f0c;
+  color: #fff;
+  font-family: "AveriaSansRegular";
+  font-size: 20px; }
+
+#nav {
+  list-style: none;
+  position: fixed;
+  right: 20px; }
+  #nav li {
+    margin: 0 0 15px 0; }
+
+section {
+  margin: 0 auto;
+  min-width: 980px;
+  overflow: auto;
+  width: 980px; }
+  section article {
+    position: relative;
+    padding-top: 50px; }
+    section article p {
+      width: 400px;
+      margin-bottom: 20px; }
+    section article h2 {
+      font-size: 130px;
+      font-family: "SubtleSansLightRegular"; }
+    section article a, section article a:hover {
+      color: #fff; }
+
+#intro {
+  background: url("/images/buffalo1.jpg") 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto;
+  height: 800px; }
+  #intro article {
+    padding-top: 160px; }
+    #intro article p {
+      font-size: 25px;
+      width: 600px; }
+    #intro article h1 {
+      font-family: "SubtleSansRegularRegular";
+      line-height: 145px;
+      font-size: 200px;
+      text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
+      text-align: right;
+      padding-bottom: 110px;
+      background-image: url(/images/coworkbuffalo_white.png);
+      background-position-y: 288px;
+      background-position-x: 50px;
+      background-repeat: repeat-x; }
+      #intro article h1 span {
+        font-size: 189px;
+        font-family: "SubtleSansLightRegular"; }
+
+#where {
+  background: url("/images/buffalo2.jpg") 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto; }
+
+#plans {
+  background: url("/images/buffalo3.jpg") 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto; }
+  #plans p {
+    margin-left: 515px;
+    text-align: right;
+    width: 460px; }
+  #plans h2 {
+    text-align: right; }
+
+#community {
+  background: url("/images/buffalo4.jpg") 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto; }
+
+#contact {
+  background: url("/images/buffalo5.jpg") 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto; }
+  #contact p {
+    margin-left: 515px;
+    text-align: right;
+    width: 460px; }
+  #contact h2 {
+    text-align: right; }
+
+#buffalo {
+  margin-top: 60px;
+  float: left; }
+
+#herd {
+  float: left;
+  background-image: url(/images/coworkbuffalo.png);
+  background-repeat: repeat;
+  width: 384px;
+  height: 500px;
+  margin-top: -50px; }
+
+#map {
+  float: right;
+  margin-top: 50px; }
+  #map #tile {
+    width: 400px;
+    height: 300px;
+    border: 5px solid #000; }

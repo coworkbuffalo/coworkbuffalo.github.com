@@ -17,7 +17,7 @@ $ ->
   layer    = new MM.StamenTileLayer("toner")
   map      = new MM.Map(document.getElementById("tile"), layer, null, null)
   location = new MM.Location(42.890595,-78.876607)
-  map.setCenterZoom(location, 7)
+  map.setCenterZoom(location, 16)
   lastPosition  = 0
 
   $window.bind 'scroll', ->
@@ -29,16 +29,16 @@ $ ->
       currentPosition = Math.floor((pos - 860) / 2) + 1
       $herd.css 'background-position-y': currentPosition
 
-    if pos >= 300 and pos <= 1300
-      currentPosition = Math.floor((pos - 300) / 50) + 1
-      if currentPosition != lastPosition
-        normalPosition = 16
+    #if pos >= 300 and pos <= 1300
+      #currentPosition = Math.floor((pos - 300) / 50) + 1
+      #if currentPosition != lastPosition
+      #  normalPosition = 16
 
-        if currentPosition < 10
-          normalPosition -= 10 - currentPosition
+      #  if currentPosition < 10
+      #    normalPosition -= 10 - currentPosition
 
-        if currentPosition > 11
-          normalPosition -= currentPosition - 10
+      #  if currentPosition > 11
+      #    normalPosition -= currentPosition - 10
 
-        map.setCenterZoom(location, normalPosition)
-        lastPosition = currentPosition
+      #  map.setCenterZoom(location, normalPosition)
+      #  lastPosition = currentPosition

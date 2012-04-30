@@ -48,7 +48,6 @@ body {
   background: rgb(17, 15, 12);
   color: #fff;
   font-family: "AveriaSansRegular";
-  font-size: 20px;
 }
 
 #nav {
@@ -57,6 +56,8 @@ body {
   right: 20px;
 
   li {
+    opacity: 0.8;
+    -moz-opacity: 0.8;
     margin: 0 0 15px 0;
   }
 }
@@ -74,6 +75,7 @@ section {
     p {
       width: 400px;
       margin-bottom: 20px;
+      font-size: 20px;
     }
 
     h2 {
@@ -112,7 +114,7 @@ section {
       text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
       text-align: right;
       padding-bottom: 110px;
-      background-image: url(/images/coworkbuffalo_white.png);
+      background-image: url(/images/coworkbuffalo.png);
       background-position-y: 288px;
       background-position-x: 50px;
       background-repeat: repeat-x;
@@ -162,11 +164,13 @@ section {
 
 #herd {
   float: left;
-  background-image: url(/images/coworkbuffalo.png);
+  background-image: url(/images/coworkbuffalo_white.png);
   background-repeat: repeat;
   width: 384px;
   height: 500px;
   margin-top: -50px;
+  opacity: 0.4;
+  -moz-opacity: 0.4;
 }
 
 #map {

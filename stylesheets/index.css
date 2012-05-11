@@ -139,10 +139,20 @@ section {
     width: 460px; }
   #contact h2 {
     text-align: right; }
-
-#buffalo {
-  margin-top: 60px;
-  float: left; }
+  #contact #buffalo {
+    margin-top: 60px;
+    float: left; }
+  #contact #brought {
+    text-align: right;
+    margin-top: 10px; }
+    #contact #brought ul {
+      list-style: none; }
+      #contact #brought ul li {
+        display: inline-block;
+        padding: 0;
+        margin: 0; }
+        #contact #brought ul li img {
+          border: 3px solid black; }
 
 #herd {
   float: left;

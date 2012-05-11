@@ -172,3 +172,79 @@ section {
     width: 400px;
     height: 300px;
     border: 5px solid #000; }
+
+#supersized-loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: 0;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  text-indent: -999em;
+  background: url(/images/progress.gif) no-repeat center center; }
+
+#supersized {
+  position: fixed;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  z-index: -999;
+  height: 100%;
+  width: 100%; }
+
+#supersized img {
+  width: auto;
+  height: auto;
+  position: relative;
+  outline: none;
+  border: none; }
+
+#supersized a {
+  z-index: -30;
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #111;
+  display: block; }
+
+#supersized a.image-loading {
+  background: #111111 url(/images/progress.gif) no-repeat center center;
+  width: 100%;
+  height: 100%; }
+
+#food h1 {
+  font-family: "SubtleSansRegularRegular";
+  line-height: 33px;
+  font-size: 80px;
+  text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
+  text-align: center;
+  padding-left: 15px;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  background-image: url(/images/coworkbuffalo.png);
+  background-position: 50% 0px;
+  background-repeat: no-repeat;
+  word-spacing: 100px; }
+  #food h1 a {
+    text-decoration: none; }
+  #food h1 span {
+    font-family: "SubtleSansLightRegular"; }
+#food a, #food a:hover {
+  color: #fff; }
+#food #header {
+  margin: 0 auto;
+  width: 770px;
+  height: 50px;
+  margin-top: 10px; }
+  #food #header h2 {
+    font-size: 30px;
+    float: left; }
+  #food #header p {
+    margin-top: 8px;
+    float: right;
+    text-align: right;
+    font-size: 14px; }

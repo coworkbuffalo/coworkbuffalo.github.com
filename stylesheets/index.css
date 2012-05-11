@@ -69,11 +69,32 @@ section {
   margin: 0 auto;
   height: 800px; }
   #intro article {
-    padding-top: 160px; }
+    padding-top: 0; }
+    #intro article ul {
+      float: right;
+      background: #fff;
+      opacity: 0.7;
+      -moz-opacity: 0.7;
+      border-bottom-left-radius: 3px;
+      -moz-border-radius-bottomleft: 3px;
+      -webkit-border-bottom-left-radius: 3px;
+      border-bottom-right-radius: 3px;
+      -moz-border-radius-bottomright: 3px;
+      -webkit-border-bottom-right-radius: 3px; }
+      #intro article ul li {
+        font-size: 13px;
+        display: inline-block;
+        padding: 5px; }
+        #intro article ul li a {
+          color: #000;
+          text-decoration: none; }
+          #intro article ul li a:hover {
+            text-decoration: underline; }
     #intro article p {
       font-size: 25px;
       width: 600px; }
     #intro article h1 {
+      padding-top: 160px;
       font-family: "SubtleSansRegularRegular";
       line-height: 145px;
       font-size: 200px;
@@ -81,7 +102,7 @@ section {
       text-align: right;
       padding-bottom: 110px;
       background-image: url(/images/coworkbuffalo.png);
-      background-position: 0% 107%;
+      background-position: 0% 105%;
       background-repeat: repeat-x; }
       #intro article h1 span {
         font-size: 189px;

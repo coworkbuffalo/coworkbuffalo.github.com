@@ -18,7 +18,7 @@ $ ->
   $window.bind 'scroll', ->
     pos = $window.scrollTop()
     if pos <= 800
-      $header.css 'background-position': "#{pos - 72}px 107%"
+      $header.css 'background-position': "#{pos - 72}px 105%"
 
     if pos >= 861 and pos <= 1800
       currentPosition = Math.floor((pos - 860) / 2) + 1

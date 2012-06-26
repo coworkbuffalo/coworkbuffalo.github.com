@@ -64,10 +64,12 @@ section {
       color: #fff; }
 
 #links {
-  float: right;
+  position: absolute;
   background: #fff;
   opacity: 0.7;
   -moz-opacity: 0.7;
+  z-index: 9999;
+  right: 0;
   border-bottom-left-radius: 3px;
   -moz-border-radius-bottomleft: 3px;
   -webkit-border-bottom-left-radius: 3px;

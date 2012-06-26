@@ -188,7 +188,19 @@ section {
 
   .slider-wrapper {
     margin-top: 60px;
+    margin-bottom: 0;
     float: right;
+
+    .nivoSlider {
+      margin-bottom: 3px;
+    }
+
+    p {
+      font-size: 10px;
+      text-align: right;
+      margin: 0;
+      width: 100%;
+    }
   }
 }
 

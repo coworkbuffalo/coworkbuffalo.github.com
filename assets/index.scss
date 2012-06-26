@@ -4,6 +4,24 @@
   -webkit-border-radius: $radius;
 }
 
+@mixin parallax($id) {
+  background:url('/images/buffalo' + $id + '.jpg') 0 0 no-repeat fixed;
+  height: 500px;
+  margin: 0 auto;
+}
+
+@mixin righty {
+  p {
+    margin-left: 515px;
+    text-align: right;
+    width: 460px;
+  }
+
+  h2 {
+    text-align: right;
+  }
+}
+
 @font-face {
     font-family: 'AveriaSansRegular';
     src: url('/fonts/averiasans-regular-webfont.eot');
@@ -49,8 +67,10 @@ Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
 License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
 */
 
+$width: 980px;
+
 body {
-  min-width: 980px;
+  min-width: $width;
   background: rgb(17, 15, 12);
   color: #fff;
   font-family: "AveriaSansRegular";
@@ -70,9 +90,9 @@ body {
 
 section {
   margin: 0 auto;
-  min-width: 980px;
+  min-width: $width;
   overflow: auto;
-  width: 980px;
+  width: $width;
 
   article {
     position: relative;
@@ -95,10 +115,34 @@ section {
   }
 }
 
-@mixin parallax($id) {
-  background:url('/images/buffalo' + $id + '.jpg') 0 0 no-repeat fixed;
-  height: 500px;
-  margin: 0 auto;
+#links {
+  float: right;
+  background: #fff;
+  opacity: 0.7;
+  -moz-opacity: 0.7;
+
+  border-bottom-left-radius: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+
+  border-bottom-right-radius: 3px;
+  -moz-border-radius-bottomright: 3px;
+  -webkit-border-bottom-right-radius: 3px;
+
+  li {
+    font-size: 13px;
+    display: inline-block;
+    padding: 5px;
+
+    a {
+      color: #000;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
 }
 
 #intro {
@@ -107,36 +151,6 @@ section {
 
   article {
     padding-top: 0;
-
-    ul {
-      float: right;
-      background: #fff;
-      opacity: 0.7;
-      -moz-opacity: 0.7;
-
-      border-bottom-left-radius: 3px;
-      -moz-border-radius-bottomleft: 3px;
-      -webkit-border-bottom-left-radius: 3px;
-
-      border-bottom-right-radius: 3px;
-      -moz-border-radius-bottomright: 3px;
-      -webkit-border-bottom-right-radius: 3px;
-
-      li {
-        font-size: 13px;
-        display: inline-block;
-        padding: 5px;
-
-        a {
-          color: #000;
-          text-decoration: none;
-
-          &:hover {
-            text-decoration: underline;
-          }
-        }
-      }
-    }
 
     p {
       font-size: 25px;
@@ -165,18 +179,6 @@ section {
         font-family: "SubtleSansLightRegular";
       }
     }
-  }
-}
-
-@mixin righty {
-  p {
-    margin-left: 515px;
-    text-align: right;
-    width: 460px;
-  }
-
-  h2 {
-    text-align: right;
   }
 }
 
@@ -310,7 +312,9 @@ section {
   height: 100%; }
 
 
-#food {
+.subpage {
+  padding-top: 30px;
+
   h1 {
     font-family: "SubtleSansRegularRegular";
     line-height: 33px;
@@ -356,7 +360,68 @@ section {
       font-size: 12px;
     }
   }
+}
 
+#faq {
+  > ul {
+    width: 770px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    list-style: none;
+
+    > li {
+      margin-bottom: 30px;
+      background: rgba(255, 255, 255, 0.85);
+      color: #000;
+      border-top-left-radius: 15px;
+      -moz-border-radius-topleft: 15px;
+      -webkit-border-top-left-radius: 15px;
+
+      border-bottom-right-radius: 15px;
+      -moz-border-radius-bottomright: 15px;
+      -webkit-border-bottom-right-radius: 15px;
+      padding: 15px;
+
+      h3 {
+        font-size: 30px;
+        margin-bottom: 15px;
+      }
+
+      p {
+        font-size: 14px;
+        margin-bottom: 10px;
+      }
+
+      blockquote {
+        padding: 5px 15px;
+        margin: 0;
+        font-style: italic;
+
+        p {
+          margin: 0;
+        }
+      }
+
+      > ul {
+        list-style: disc;
+        padding-left: 30px;
+
+        > li {
+          width: 90%;
+          font-size: 13px;
+          padding-bottom: 5px;
+        }
+      }
+
+      a, a:visited {
+        color: #666;
+      }
+    }
+  }
+}
+
+#food {
   #footer {
     text-align: center;
     margin-bottom: 2em;

@@ -63,6 +63,27 @@ section {
     section article a, section article a:hover {
       color: #fff; }
 
+#links {
+  float: right;
+  background: #fff;
+  opacity: 0.7;
+  -moz-opacity: 0.7;
+  border-bottom-left-radius: 3px;
+  -moz-border-radius-bottomleft: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  -moz-border-radius-bottomright: 3px;
+  -webkit-border-bottom-right-radius: 3px; }
+  #links li {
+    font-size: 13px;
+    display: inline-block;
+    padding: 5px; }
+    #links li a {
+      color: #000;
+      text-decoration: none; }
+      #links li a:hover {
+        text-decoration: underline; }
+
 #intro {
   background: url("/images/buffalo1.jpg") 0 0 no-repeat fixed;
   height: 500px;
@@ -70,26 +91,6 @@ section {
   height: 800px; }
   #intro article {
     padding-top: 0; }
-    #intro article ul {
-      float: right;
-      background: #fff;
-      opacity: 0.7;
-      -moz-opacity: 0.7;
-      border-bottom-left-radius: 3px;
-      -moz-border-radius-bottomleft: 3px;
-      -webkit-border-bottom-left-radius: 3px;
-      border-bottom-right-radius: 3px;
-      -moz-border-radius-bottomright: 3px;
-      -webkit-border-bottom-right-radius: 3px; }
-      #intro article ul li {
-        font-size: 13px;
-        display: inline-block;
-        padding: 5px; }
-        #intro article ul li a {
-          color: #000;
-          text-decoration: none; }
-          #intro article ul li a:hover {
-            text-decoration: underline; }
     #intro article p {
       font-size: 25px;
       width: 700px; }
@@ -236,38 +237,80 @@ section {
   width: 100%;
   height: 100%; }
 
-#food h1 {
-  font-family: "SubtleSansRegularRegular";
-  line-height: 33px;
-  font-size: 80px;
-  text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
-  text-align: center;
-  padding-left: 23px;
-  padding-top: 46px;
-  padding-bottom: 50px;
-  background-image: url(/images/coworkbuffalo.png);
-  background-position: 50% 0px;
-  background-repeat: no-repeat;
-  word-spacing: 109px; }
-  #food h1 a {
-    text-decoration: none; }
-  #food h1 span {
-    font-family: "SubtleSansLightRegular"; }
-#food a, #food a:hover {
-  color: #fff; }
-#food #header {
-  margin: 0 auto;
+.subpage {
+  padding-top: 30px; }
+  .subpage h1 {
+    font-family: "SubtleSansRegularRegular";
+    line-height: 33px;
+    font-size: 80px;
+    text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
+    text-align: center;
+    padding-left: 23px;
+    padding-top: 46px;
+    padding-bottom: 50px;
+    background-image: url(/images/coworkbuffalo.png);
+    background-position: 50% 0px;
+    background-repeat: no-repeat;
+    word-spacing: 109px; }
+    .subpage h1 a {
+      text-decoration: none; }
+    .subpage h1 span {
+      font-family: "SubtleSansLightRegular"; }
+  .subpage a, .subpage a:hover {
+    color: #fff; }
+  .subpage #header {
+    margin: 0 auto;
+    width: 770px;
+    height: 50px;
+    margin-top: 10px; }
+    .subpage #header h2 {
+      font-size: 30px;
+      float: left; }
+    .subpage #header p {
+      margin-top: 8px;
+      float: right;
+      text-align: right;
+      font-size: 12px; }
+
+#faq > ul {
   width: 770px;
-  height: 50px;
-  margin-top: 10px; }
-  #food #header h2 {
-    font-size: 30px;
-    float: left; }
-  #food #header p {
-    margin-top: 8px;
-    float: right;
-    text-align: right;
-    font-size: 12px; }
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  list-style: none; }
+  #faq > ul > li {
+    margin-bottom: 30px;
+    background: rgba(255, 255, 255, 0.85);
+    color: #000;
+    border-top-left-radius: 15px;
+    -moz-border-radius-topleft: 15px;
+    -webkit-border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    -moz-border-radius-bottomright: 15px;
+    -webkit-border-bottom-right-radius: 15px;
+    padding: 15px; }
+    #faq > ul > li h3 {
+      font-size: 30px;
+      margin-bottom: 15px; }
+    #faq > ul > li p {
+      font-size: 14px;
+      margin-bottom: 10px; }
+    #faq > ul > li blockquote {
+      padding: 5px 15px;
+      margin: 0;
+      font-style: italic; }
+      #faq > ul > li blockquote p {
+        margin: 0; }
+    #faq > ul > li > ul {
+      list-style: disc;
+      padding-left: 30px; }
+      #faq > ul > li > ul > li {
+        width: 90%;
+        font-size: 13px;
+        padding-bottom: 5px; }
+    #faq > ul > li a, #faq > ul > li a:visited {
+      color: #666; }
+
 #food #footer {
   text-align: center;
   margin-bottom: 2em;

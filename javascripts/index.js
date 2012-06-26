@@ -33,7 +33,7 @@ $(function() {
     return window.location = $(this).find("a").attr("href");
   });
   return $('#slider').nivoSlider({
-    effect: 'boxRain',
+    effect: 'fold',
     pauseTime: 4000,
     randomStart: true,
     controlNav: false,

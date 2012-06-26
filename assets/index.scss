@@ -1,3 +1,9 @@
+@mixin border-radius($radius) {
+  border-radius: $radius;
+  -moz-border-radius: $radius;
+  -webkit-border-radius: $radius;
+}
+
 @font-face {
     font-family: 'AveriaSansRegular';
     src: url('/fonts/averiasans-regular-webfont.eot');
@@ -187,16 +193,20 @@ section {
   @include parallax(4);
 
   .slider-wrapper {
-    margin-top: 60px;
+    margin-top: 55px;
     margin-bottom: 0;
     float: right;
 
     .nivoSlider {
       margin-bottom: 3px;
+      border: 10px solid rgba(255, 255, 255, 0.7);
+      -webkit-background-clip: padding-box;
+      background-clip: padding-box;
+      @include border-radius(10px);
     }
 
     p {
-      font-size: 10px;
+      font-size: 11px;
       text-align: right;
       margin: 0;
       width: 100%;

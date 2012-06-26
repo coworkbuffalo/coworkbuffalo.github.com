@@ -132,13 +132,19 @@ section {
   height: 500px;
   margin: 0 auto; }
   #community .slider-wrapper {
-    margin-top: 60px;
+    margin-top: 55px;
     margin-bottom: 0;
     float: right; }
     #community .slider-wrapper .nivoSlider {
-      margin-bottom: 3px; }
+      margin-bottom: 3px;
+      border: 10px solid rgba(255, 255, 255, 0.7);
+      -webkit-background-clip: padding-box;
+      background-clip: padding-box;
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -webkit-border-radius: 10px; }
     #community .slider-wrapper p {
-      font-size: 10px;
+      font-size: 11px;
       text-align: right;
       margin: 0;
       width: 100%; }

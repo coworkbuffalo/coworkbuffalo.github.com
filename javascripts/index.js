@@ -34,7 +34,7 @@ $(function() {
   });
   return $('#slider').nivoSlider({
     effect: 'boxRain',
-    pauseTime: 3000,
+    pauseTime: 4000,
     randomStart: true,
     controlNav: false,
     directionNavHide: true,

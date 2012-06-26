@@ -29,7 +29,15 @@ $(function() {
       });
     }
   });
-  return $("#map").click(function(event) {
+  $("#map").click(function(event) {
     return window.location = $(this).find("a").attr("href");
+  });
+  return $('#slider').nivoSlider({
+    effect: 'boxRain',
+    animSpeed: 2000,
+    randomStart: true,
+    controlNav: false,
+    directionNavHide: true,
+    keyboardNav: false
   });
 });

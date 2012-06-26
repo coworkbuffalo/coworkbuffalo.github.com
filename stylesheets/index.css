@@ -131,6 +131,9 @@ section {
   background: url("/images/buffalo4.jpg") 0 0 no-repeat fixed;
   height: 500px;
   margin: 0 auto; }
+  #community .slider-wrapper {
+    margin-top: 60px;
+    float: right; }
 
 #contact {
   background: url("/images/buffalo5.jpg") 0 0 no-repeat fixed;

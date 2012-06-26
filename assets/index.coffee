@@ -26,3 +26,11 @@ $ ->
 
   $("#map").click (event) ->
     window.location = $(this).find("a").attr("href")
+
+  $('#slider').nivoSlider
+    effect: 'boxRain'
+    animSpeed: 2000
+    randomStart: true
+    controlNav: false
+    directionNavHide: true
+    keyboardNav: false

@@ -15,3 +15,10 @@ task :default do
     sleep 1
   end
 end
+
+task :rename do
+  (1..11).each do |n|
+    sh "mv photos/#{n}.jpg photos/#{n}_thumb.jpg"
+    sh "mv photos/'#{n} copy.jpg' photos/#{n}.jpg"
+  end
+end

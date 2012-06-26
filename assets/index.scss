@@ -185,6 +185,11 @@ section {
 
 #community {
   @include parallax(4);
+
+  .slider-wrapper {
+    margin-top: 60px;
+    float: right;
+  }
 }
 
 #contact {

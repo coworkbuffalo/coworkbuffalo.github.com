@@ -93,6 +93,9 @@ section {
     #intro article p {
       font-size: 25px;
       width: 700px; }
+      #intro article p span {
+        display: block;
+        font-size: 14px; }
     #intro article h1 {
       padding-top: 160px;
       font-family: "SubtleSansRegularRegular";

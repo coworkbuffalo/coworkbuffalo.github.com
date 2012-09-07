@@ -1,7 +1,7 @@
 $ ->
   $.supersized slides: [{image: '/images/1900.jpg'}]
 
-  trucks = ["whereslloyd", "TheCheesyChick", "RnRBBQTruck", "RoamingBuffalo1", "MobileWoodFire", "WholeHogTruck"]
+  trucks = ["whereslloyd", "TheCheesyChick", "RnRBBQTruck", "RoamingBuffalo1", "MobileWoodFire", "TheKnightSlider", "RollingJoeCafe", "sweethearthny", "WholeHogTruck"]
 
   $list = $("#trucks")
   for truck in trucks

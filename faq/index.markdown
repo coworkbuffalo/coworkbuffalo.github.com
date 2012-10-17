@@ -33,7 +33,7 @@ Quite solid. It’s a Verizon Business line, which means a stable, honest 7 mbps
 
 * ### Where can I park? How can I get there?
 You've got a few options:
-  * The lot [directly adjacent to CoworkBuffalo](https://www.dropbox.com/s/2h4rfi4gl5jz1fa/parking_picture.jpg) always has spots, and the maximum rate until 6pm is $6.
+  * The lot [directly adjacent to CoworkBuffalo](https://www.dropbox.com/s/2h4rfi4gl5jz1fa/parking_picture.jpg) always has spots, and the maximum rate until 6pm is $10.
   * There are pockets of free and cheap street parking nearby. A favorite is Johnson Park ([map](https://maps.google.com/maps?q=johnson+park,+buffalo,+ny&ll=42.892819,-78.878703&spn=0.006013,0.013937&hnear=Johnson+Park,+Buffalo,+Erie,+New+York&t=m&z=17)), where there are sometimes $2 all-day meters.
   * Biking is quite convenient, and of course, bikes are free to park.
   * The Metro Rail stop at Fountain Plaza ([map](https://maps.google.com/maps?q=RAIL+at+Fountain+Plaza+Station&hl=en&hnear=RAIL+at+Fountain+Plaza+Station&t=m&z=16)) is three short blocks away.

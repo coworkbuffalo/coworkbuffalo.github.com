@@ -1,11 +1,22 @@
 $ ->
   $.supersized slides: [{image: '/images/1900.jpg'}]
 
-  trucks = ["whereslloyd", "TheCheesyChick", "RnRBBQTruck", "RoamingBuffalo1", "MobileWoodFire", "TheKnightSlider", "RollingJoeCafe", "sweethearthny", "WholeHogTruck"]
+  trucks = [
+    "whereslloyd",
+    "TheCheesyChick",
+    "RnRBBQTruck",
+    "RoamingBuffalo1",
+    "MobileWoodFire",
+    "TheKnightSlider",
+    "RollingJoeCafe",
+    "SweetHearthNY",
+    "amys_truck"
+  ]
 
   $list = $("#trucks")
+
   for truck in trucks
-    $list.append "<li id='#{truck}'>
+    $list.append "<li id='#{truck.toLowerCase()}'>
       <header>
         <a href='https://twitter.com/#{truck}' style='background: url(http://api.twitter.com/1/users/profile_image?screen_name=#{truck}) no-repeat'>
           @#{truck}
@@ -25,7 +36,7 @@ $ ->
 
         html += "<li><p>#{text}</p><a id='perma' href='https://twitter.com/#{screen_name}/statuses/#{tweet.id_str}'>#{created_at}</a></li>"
 
-      $("##{screen_name} ul").append(html)
+      $("##{screen_name.toLowerCase()} ul").append(html)
 
     $.getJSON "http://api.twitter.com/1/statuses/user_timeline.json?screen_name=#{truck}&count=10&exclude_replies=true&callback=?",
       {},

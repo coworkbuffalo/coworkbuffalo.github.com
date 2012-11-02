@@ -274,13 +274,13 @@ section {
       text-align: right;
       font-size: 12px; }
 
-#faq > ul {
+#faq > ul, #newsletter > ul {
   width: 770px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
   list-style: none; }
-  #faq > ul > li {
+  #faq > ul > li, #newsletter > ul > li {
     margin-bottom: 30px;
     background: rgba(255, 255, 255, 0.85);
     color: #000;
@@ -291,26 +291,26 @@ section {
     -moz-border-radius-bottomright: 15px;
     -webkit-border-bottom-right-radius: 15px;
     padding: 15px; }
-    #faq > ul > li h3 {
+    #faq > ul > li h3, #newsletter > ul > li h3 {
       font-size: 30px;
       margin-bottom: 15px; }
-    #faq > ul > li p {
+    #faq > ul > li p, #newsletter > ul > li p {
       font-size: 14px;
       margin-bottom: 10px; }
-    #faq > ul > li blockquote {
+    #faq > ul > li blockquote, #newsletter > ul > li blockquote {
       padding: 5px 15px;
       margin: 0;
       font-style: italic; }
-      #faq > ul > li blockquote p {
+      #faq > ul > li blockquote p, #newsletter > ul > li blockquote p {
         margin: 0; }
-    #faq > ul > li > ul {
+    #faq > ul > li > ul, #newsletter > ul > li > ul {
       list-style: disc;
       padding-left: 30px; }
-      #faq > ul > li > ul > li {
+      #faq > ul > li > ul > li, #newsletter > ul > li > ul > li {
         width: 90%;
         font-size: 13px;
         padding-bottom: 5px; }
-    #faq > ul > li a, #faq > ul > li a:visited {
+    #faq > ul > li a, #faq > ul > li a:visited, #newsletter > ul > li a, #newsletter > ul > li a:visited {
       color: #666; }
 
 #food #footer {

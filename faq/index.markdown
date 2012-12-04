@@ -23,7 +23,7 @@ We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8
 At a minimum, there is great power in knowing that people can see how many Wikipedia tabs you have open, and whether or not you’re shooting things or stacking cards on your screen. More specifically, there are, sure, some small distractions of people chatting, getting up, and so on. But the big distractions of home (waiting on UPS, guilt over chores, entertainment) and coffee shops (variable music, close quarters, power/Wi-Fi limits) are gone. 
 
 * ### How is the Wi-Fi?
-Quite solid. It’s a Verizon Business line, which means a stable, honest 7 mbps up and down.
+Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 10 mbps up and 1 mbps down.
 
 * ### Where is CoworkBuffalo?
 [225 Delaware Ave., Suite 10](http://maps.google.com/maps?q=225+delaware+ave+buffalo+ny&hl=en&sll=42.892308,-78.871676&sspn=0.004826,0.009645&hnear=225+Delaware+Ave,+Buffalo,+Erie,+New+York+14202&t=m&z=16). It’s the [door to the right of Spot Coffee’s outdoor patio](https://www.dropbox.com/s/thuubvywer1rnp6/Cowork_Buffalo_outer_door.jpg), up the stairs, and toward the end of the hall.
@@ -33,7 +33,7 @@ Quite solid. It’s a Verizon Business line, which means a stable, honest 7 mbps
 
 * ### Where can I park? How can I get there?
 You've got a few options:
-  * The lot [directly adjacent to CoworkBuffalo](https://www.dropbox.com/s/2h4rfi4gl5jz1fa/parking_picture.jpg) always has spots, and the maximum rate until 6pm is $10.
+  * There are lots nearby that offer not-so-bad daily rates. On Elmwood, just up from Chippewa (next to Valero gas station), it's $7/day; many lots are similar.
   * There are pockets of free and cheap street parking nearby. A favorite is Johnson Park ([map](https://maps.google.com/maps?q=johnson+park,+buffalo,+ny&ll=42.892819,-78.878703&spn=0.006013,0.013937&hnear=Johnson+Park,+Buffalo,+Erie,+New+York&t=m&z=17)), where there are sometimes $2 all-day meters.
   * Biking is quite convenient, and of course, bikes are free to park.
   * The Metro Rail stop at Fountain Plaza ([map](https://maps.google.com/maps?q=RAIL+at+Fountain+Plaza+Station&hl=en&hnear=RAIL+at+Fountain+Plaza+Station&t=m&z=16)) is three short blocks away.

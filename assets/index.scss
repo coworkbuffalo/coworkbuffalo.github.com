@@ -364,7 +364,7 @@ section {
   }
 }
 
-#faq, #newsletter {
+#faq {
   > ul {
     width: 770px;
     margin-left: auto;
@@ -476,6 +476,72 @@ section {
             text-align: right;
           }
         }
+      }
+    }
+  }
+}
+
+#newsletter {
+  width: 770px;
+  margin-left: auto;
+  margin-right: auto;
+
+  form {
+    border: none;
+  }
+
+  article {
+    background: rgba(255, 255, 255, .9);
+    color: #000;
+    padding: 20px;
+    @include border-radius(10px);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 20px;
+
+    h2 {
+      font-size: 30px;
+      margin-bottom: 15px;
+      font-family: "AveriaSansRegular";
+    }
+
+    h3 {
+      font-size: 16px;
+      font-style: italic;
+      font-weight: normal;
+      margin-bottom: 10px;
+    }
+
+    ul {
+      list-style: disc inside;
+      margin-bottom: 10px;
+
+      li {
+        margin-bottom: 5px;
+      }
+    }
+
+    p {
+      line-height: 20px;
+      margin-bottom: 5px;
+    }
+
+    a, a:visited {
+      color: #000;
+    }
+
+    form {
+      display: none;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding: 20px;
+      background: rgba(255, 255, 255, .4);
+      @include border-radius(10px);
+
+
+      input#tlemail {
+        font-size: 40px;
       }
     }
   }

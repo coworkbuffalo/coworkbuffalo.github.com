@@ -194,7 +194,7 @@ section {
   #map #tile {
     width: 400px;
     height: 300px;
-    border: 5px solid #000; }
+    border: 5px solid black; }
 
 #supersized-loader {
   position: absolute;
@@ -274,13 +274,13 @@ section {
       text-align: right;
       font-size: 12px; }
 
-#faq > ul, #newsletter > ul {
+#faq > ul {
   width: 770px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
   list-style: none; }
-  #faq > ul > li, #newsletter > ul > li {
+  #faq > ul > li {
     margin-bottom: 30px;
     background: rgba(255, 255, 255, 0.85);
     color: #000;
@@ -291,26 +291,26 @@ section {
     -moz-border-radius-bottomright: 15px;
     -webkit-border-bottom-right-radius: 15px;
     padding: 15px; }
-    #faq > ul > li h3, #newsletter > ul > li h3 {
+    #faq > ul > li h3 {
       font-size: 30px;
       margin-bottom: 15px; }
-    #faq > ul > li p, #newsletter > ul > li p {
+    #faq > ul > li p {
       font-size: 14px;
       margin-bottom: 10px; }
-    #faq > ul > li blockquote, #newsletter > ul > li blockquote {
+    #faq > ul > li blockquote {
       padding: 5px 15px;
       margin: 0;
       font-style: italic; }
-      #faq > ul > li blockquote p, #newsletter > ul > li blockquote p {
+      #faq > ul > li blockquote p {
         margin: 0; }
-    #faq > ul > li > ul, #newsletter > ul > li > ul {
+    #faq > ul > li > ul {
       list-style: disc;
       padding-left: 30px; }
-      #faq > ul > li > ul > li, #newsletter > ul > li > ul > li {
+      #faq > ul > li > ul > li {
         width: 90%;
         font-size: 13px;
         padding-bottom: 5px; }
-    #faq > ul > li a, #faq > ul > li a:visited, #newsletter > ul > li a, #newsletter > ul > li a:visited {
+    #faq > ul > li a, #faq > ul > li a:visited {
       color: #666; }
 
 #food #footer {
@@ -345,7 +345,7 @@ section {
         color: #000;
         padding: 10px;
         margin-top: 10px;
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: "Helvetica Neue", Arial, sans-serif;
         font-size: 14px; }
         #food #trucks li > ul > li a {
           color: #666;
@@ -353,3 +353,51 @@ section {
         #food #trucks li > ul > li #perma {
           display: block;
           text-align: right; }
+
+#newsletter {
+  width: 770px;
+  margin-left: auto;
+  margin-right: auto; }
+  #newsletter form {
+    border: none; }
+  #newsletter article {
+    background: rgba(255, 255, 255, 0.9);
+    color: #000;
+    padding: 20px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin-bottom: 20px; }
+    #newsletter article h2 {
+      font-size: 30px;
+      margin-bottom: 15px;
+      font-family: "AveriaSansRegular"; }
+    #newsletter article h3 {
+      font-size: 16px;
+      font-style: italic;
+      font-weight: normal;
+      margin-bottom: 10px; }
+    #newsletter article ul {
+      list-style: disc inside;
+      margin-bottom: 10px; }
+      #newsletter article ul li {
+        margin-bottom: 5px; }
+    #newsletter article p {
+      line-height: 20px;
+      margin-bottom: 5px; }
+    #newsletter article a, #newsletter article a:visited {
+      color: #000; }
+    #newsletter article form {
+      display: none;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.4);
+      border-radius: 10px;
+      -moz-border-radius: 10px;
+      -webkit-border-radius: 10px; }
+      #newsletter article form input#tlemail {
+        font-size: 40px; }

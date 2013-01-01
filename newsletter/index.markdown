@@ -1,22 +1,17 @@
 ---
 layout: newsletter
-title: CoworkBuffalo - Newsletter
+title: October/November 2012 - Double the Coworking
 ---
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/coworkbuffalo" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/coworkbuffalo', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
-
-# CoworkBuffalo Newsletter for October/November 2012: Double the Coworking #
-
 ### Contents ###
-
 
 + Greetings
 + CoworkBuffalo Is Literally 100% Bigger
 + Meetings and After-Hours Events
 + Announcements, upgrades, to-do list
 + What else should we do with our new space?
-## Greetings ##
 
+## Greetings ##
 
 I know, I know. It was Oct. 31, you were drinking warm cider, handing out candy (or unused emergency canned goods), and enjoying the 142 photos of your Facebook friends’ kids. And then it crept up on you, like that kid on Facebook dressed like Spider-Man: “Wait—where was the CoworkBuffalo newsletter this month?”
 

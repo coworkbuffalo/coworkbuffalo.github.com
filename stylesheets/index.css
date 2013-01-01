@@ -406,9 +406,11 @@ section {
       margin-bottom: 10px; }
       #newsletter article ul li {
         margin-bottom: 5px; }
+        #newsletter article ul li p {
+          margin: 0; }
     #newsletter article p {
-      line-height: 20px;
-      margin-bottom: 5px; }
+      line-height: 18px;
+      margin-bottom: 15px; }
     #newsletter article a, #newsletter article a:visited {
       color: #000; }
     #newsletter article img {

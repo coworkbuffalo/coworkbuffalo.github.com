@@ -548,12 +548,16 @@ section {
 
       li {
         margin-bottom: 5px;
+
+        p {
+          margin: 0;
+        }
       }
     }
 
     p {
-      line-height: 20px;
-      margin-bottom: 5px;
+      line-height: 18px;
+      margin-bottom: 15px;
     }
 
     a, a:visited {

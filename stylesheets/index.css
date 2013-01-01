@@ -409,6 +409,10 @@ section {
       margin-bottom: 5px; }
     #newsletter article a, #newsletter article a:visited {
       color: #000; }
+    #newsletter article img {
+      max-width: 500px;
+      margin-top: 5px;
+      margin-bottom: 5px; }
 
 /* skip (inspired by okcupid iphone interface)
 *******************************************************************************/

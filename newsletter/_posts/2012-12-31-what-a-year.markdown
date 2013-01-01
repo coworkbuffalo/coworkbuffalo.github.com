@@ -16,12 +16,12 @@ The first draft of this newsletter was written in an afternoon at CoworkBuffalo,
 Which brings us to the point of this newsletter, and every newsletter, and every [tweet](http://twitter.com/coworkbuffalo) and [Facebook post](http://facebook.com/coworkbuffalo) and basically everything we do. We are four folks who are tremendously grateful that Buffalo has so many people who do interesting work, and want to do it with other people around. We appreciate your business, your energy, and, sometimes, your patience with a young team working in a somewhat new field.
 
 As we head into 2013, let’s just say it a few more times: thank you, thank you, thank you.
-## The New Room: Team Desks, Casual Table, and Less Random Stuff! ##
 
+## The New Room: Team Desks, Casual Table, and Less Random Stuff! ##
 
 Most people around here don’t use “Vilgot,” “Vika Amon,” or “Besta” in casual conversation. But CoworkBuffalo knows from IKEA, and we’ve just made another run to fill out our second office bay. That empty room next to the main space, where we keep random supplies and have occasional get-togethers? It’s full of Swedish-designed flat-pack boxes right now.
 
-![IKEA Boxes redux](https://dl.dropbox.com/u/112488/IMG_20121231_143631.jpg)
+![IKEA Boxes redux](/images/boxes.jpg)
 
 When they’re assembled, and after a few remaining pieces are obtained, CoworkBuffalo’s new room will have:
 

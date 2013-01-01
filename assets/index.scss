@@ -391,6 +391,7 @@ section {
       }
 
       p {
+        font-family: 'Helvetica Neue', Arial, sans-serif;
         font-size: 14px;
         margin-bottom: 10px;
       }
@@ -412,6 +413,7 @@ section {
         > li {
           width: 90%;
           font-size: 13px;
+          font-family: 'Helvetica Neue', Arial, sans-serif;
           padding-bottom: 5px;
         }
       }
@@ -510,6 +512,10 @@ section {
     }
   }
 
+  h2 a {
+    text-decoration: none;
+  }
+
   article {
     background: rgba(255, 255, 255, .9);
     color: #000;
@@ -523,10 +529,6 @@ section {
       margin-top: 15px;
       margin-bottom: 15px;
       font-family: "AveriaSansRegular";
-
-      a {
-        text-decoration: none;
-      }
     }
 
     header h2 {
@@ -559,9 +561,8 @@ section {
     }
 
     img {
-      max-width: 500px;
-      margin-top: 5px;
-      margin-bottom: 5px;
+      display: block;
+      margin: 10px auto
     }
   }
 }

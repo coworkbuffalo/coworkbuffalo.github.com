@@ -295,6 +295,7 @@ section {
       font-size: 30px;
       margin-bottom: 15px; }
     #faq > ul > li p {
+      font-family: "Helvetica Neue", Arial, sans-serif;
       font-size: 14px;
       margin-bottom: 10px; }
     #faq > ul > li blockquote {
@@ -309,6 +310,7 @@ section {
       #faq > ul > li > ul > li {
         width: 90%;
         font-size: 13px;
+        font-family: "Helvetica Neue", Arial, sans-serif;
         padding-bottom: 5px; }
     #faq > ul > li a, #faq > ul > li a:visited {
       color: #666; }
@@ -376,6 +378,8 @@ section {
       text-align: center;
       text-shadow: 0 1px 0 white;
       width: 200px; }
+  #newsletter h2 a {
+    text-decoration: none; }
   #newsletter article {
     background: rgba(255, 255, 255, 0.9);
     color: #000;
@@ -390,8 +394,6 @@ section {
       margin-top: 15px;
       margin-bottom: 15px;
       font-family: "AveriaSansRegular"; }
-      #newsletter article h2 a {
-        text-decoration: none; }
     #newsletter article header h2 {
       margin-top: 0; }
     #newsletter article h3 {
@@ -410,9 +412,8 @@ section {
     #newsletter article a, #newsletter article a:visited {
       color: #000; }
     #newsletter article img {
-      max-width: 500px;
-      margin-top: 5px;
-      margin-bottom: 5px; }
+      display: block;
+      margin: 10px auto; }
 
 /* skip (inspired by okcupid iphone interface)
 *******************************************************************************/

@@ -373,11 +373,15 @@ section {
       font-size: 30px;
       margin-bottom: 15px;
       font-family: "AveriaSansRegular"; }
+      #newsletter article h2 a {
+        text-decoration: none; }
     #newsletter article h3 {
       font-size: 16px;
       font-style: italic;
       font-weight: normal;
       margin-bottom: 10px; }
+    #newsletter article h4 {
+      margin-top: 15px; }
     #newsletter article ul {
       list-style: disc inside;
       margin-bottom: 10px; }

@@ -1,6 +1,6 @@
 ---
 layout: newsletter
-title: All Newsletters
+title: Our Newsletters
 ---
 
 {% for post in site.posts %}

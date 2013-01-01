@@ -5,16 +5,15 @@ layout: default
 <div class="subpage" id="newsletter">
   <h1><a href="http://coworkbuffalo.com">cowork <span>buffalo</span></a></h1>
 
+  <form action="https://tinyletter.com/coworkbuffalo" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/coworkbuffalo', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
+    <input type="text" name="email" id="tlemail" placeholder="What's your email?" />
+    <input type="hidden" value="1" name="embed"/>
+    <button class="skip">Subscribe</button>
+  </form>
+
   <article>
     <header>
       <h2>{{ page.title }}</h2>
-
-      <form action="https://tinyletter.com/coworkbuffalo" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/coworkbuffalo', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
-        <p><input type="text" name="email" id="tlemail" placeholder="What's your email?" /></p>
-        <input type="hidden" value="1" name="embed"/>
-        <input type="submit" value="Subscribe" />
-        <p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p>
-      </form>
     </header>
 
     {{ content }}

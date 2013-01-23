@@ -8,7 +8,7 @@ $(function() {
       }
     ]
   });
-  trucks = ["whereslloyd", "TheCheesyChick", "RnRBBQTruck", "RoamingBuffalo1", "MobileWoodFire", "TheKnightSlider", "RollingJoeCafe", "SweetHearthNY", "amys_truck"];
+  trucks = ["whereslloyd", "RoamingBuffalo1", "RnRBBQTruck", "TheKnightSlider", "amys_truck", "theBMFT", "FindFrankNow", "TheCheesyChick", "RollingJoeCafe", "SweetHearthNY", "MobileWoodFire", "WholeHogTruck"];
   $list = $("#trucks");
   _results = [];
   for (_i = 0, _len = trucks.length; _i < _len; _i++) {

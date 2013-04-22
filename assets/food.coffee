@@ -4,16 +4,23 @@ $ ->
   trucks = [
     "whereslloyd",
     "RoamingBuffalo1",
-    "RnRBBQTruck",
-    "TheKnightSlider",
-    "amys_truck",
     "theBMFT",
+
     "FindFrankNow",
-    "TheCheesyChick",
+    "amys_truck",
+    "RnRBBQTruck",
+
+    "SweetHearthNY",
     "RollingJoeCafe",
-    "SweetHearthNY"
+    "HouseOfMunch",
+
+    "TheKnightSlider",
     "MobileWoodFire",
     "WholeHogTruck",
+
+    "PaniniTruckBflo",
+    "thaimeuptruck",
+    "TheCheesyChick"
   ]
 
   $list = $("#trucks")

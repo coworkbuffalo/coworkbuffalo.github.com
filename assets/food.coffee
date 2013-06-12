@@ -24,6 +24,6 @@ $ ->
   for truck, widget of trucks
     $list.append "<li id='#{truck.toLowerCase()}'>
       <header><a href='https://twitter.com/#{truck}'>@#{truck}</a></header>
-      <a class='twitter-timeline' data-tweet-limit='3' data-border-color='#ccc' data-dnt='true' data-chrome='noheader nofooter transparent' href='https://twitter.com/#{truck}' data-widget-id='#{widget}'>
+      <a class='twitter-timeline' data-tweet-limit='3' data-dnt='true' data-chrome='noheader nofooter transparent' href='https://twitter.com/#{truck}' data-widget-id='#{widget}'>
       </a>
     </li>"

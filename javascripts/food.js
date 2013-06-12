@@ -1,6 +1,6 @@
 
 $(function() {
-  var $list, renderTweets, truck, trucks, _i, _len, _results;
+  var $list, truck, trucks, widget, _results;
   $.supersized({
     slides: [
       {
@@ -8,26 +8,28 @@ $(function() {
       }
     ]
   });
-  trucks = ["whereslloyd", "RoamingBuffalo1", "theBMFT", "FindFrankNow", "amys_truck", "RnRBBQTruck", "SweetHearthNY", "RollingJoeCafe", "HouseOfMunch", "TheKnightSlider", "MobileWoodFire", "WholeHogTruck", "PaniniTruckBflo", "thaimeuptruck", "TheCheesyChick"];
+  trucks = {
+    "whereslloyd": "344853196625309696",
+    "RoamingBuffalo1": "344857092533911552",
+    "theBMFT": "344858519096397824",
+    "FindFrankNow": "344858686004535296",
+    "amys_truck": "344858789989728256",
+    "RnRBBQTruck": "344858857568362496",
+    "SweetHearthNY": "344858930691833856",
+    "RollingJoeCafe": "344858992918536192",
+    "HouseOfMunch": "344859058567790596",
+    "TheKnightSlider": "344859260351561729",
+    "MobileWoodFire": "344859315275964417",
+    "WholeHogTruck": "344859366903656448",
+    "PaniniTruckBflo": "344859430824845313",
+    "thaimeuptruck": "344859485296271360",
+    "TheCheesyChick": "344859534478675968"
+  };
   $list = $("#trucks");
   _results = [];
-  for (_i = 0, _len = trucks.length; _i < _len; _i++) {
-    truck = trucks[_i];
-    $list.append("<li id='" + (truck.toLowerCase()) + "'>      <header>        <a href='https://twitter.com/" + truck + "' style='background: url(http://api.twitter.com/1/users/profile_image?screen_name=" + truck + ") no-repeat'>          @" + truck + "        </a>      </header>      <ul>      </ul>    </li>");
-    renderTweets = function(tweets) {
-      var created_at, html, screen_name, text, tweet, _j, _len2, _ref;
-      screen_name = tweets[0].user.screen_name;
-      html = "";
-      _ref = tweets.slice(0, 3);
-      for (_j = 0, _len2 = _ref.length; _j < _len2; _j++) {
-        tweet = _ref[_j];
-        created_at = Date.format(new Date(Date.parse(tweet.created_at)), "MM/dd hh:mm");
-        text = twttr.txt.autoLink(twttr.txt.htmlEscape(tweet.text));
-        html += "<li><p>" + text + "</p><a id='perma' href='https://twitter.com/" + screen_name + "/statuses/" + tweet.id_str + "'>" + created_at + "</a></li>";
-      }
-      return $("#" + (screen_name.toLowerCase()) + " ul").append(html);
-    };
-    _results.push($.getJSON("http://api.twitter.com/1/statuses/user_timeline.json?screen_name=" + truck + "&count=10&exclude_replies=true&callback=?", {}, renderTweets, 'jsonp'));
+  for (truck in trucks) {
+    widget = trucks[truck];
+    _results.push($list.append("<li id='" + (truck.toLowerCase()) + "'>      <header><a href='https://twitter.com/" + truck + "'>@" + truck + "</a></header>      <a class='twitter-timeline' data-tweet-limit='3' data-border-color='#ccc' data-dnt='true' data-chrome='noheader nofooter transparent' href='https://twitter.com/" + truck + "' data-widget-id='" + widget + "'>      </a>    </li>"));
   }
   return _results;
 });

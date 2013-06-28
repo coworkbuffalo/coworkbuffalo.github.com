@@ -23,7 +23,7 @@ We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8
 At a minimum, there is great power in knowing that people can see how many Wikipedia tabs you have open, and whether or not you’re shooting things or stacking cards on your screen. More specifically, there are, sure, some small distractions of people chatting, getting up, and so on. But the big distractions of home (waiting on UPS, guilt over chores, entertainment) and coffee shops (variable music, close quarters, power/Wi-Fi limits) are gone. 
 
 * ### How is the Wi-Fi?
-Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 10 mbps up and 1 mbps down.
+Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 10 mbps down and 1 mbps up.
 
 * ### Where is CoworkBuffalo?
 [225 Delaware Ave., Suite 10](http://maps.google.com/maps?q=225+delaware+ave+buffalo+ny&hl=en&sll=42.892308,-78.871676&sspn=0.004826,0.009645&hnear=225+Delaware+Ave,+Buffalo,+Erie,+New+York+14202&t=m&z=16). It’s the [door to the right of Spot Coffee’s outdoor patio](https://www.dropbox.com/s/thuubvywer1rnp6/Cowork_Buffalo_outer_door.jpg), up the stairs, and toward the end of the hall.

@@ -1,4 +1,3 @@
-
 $(function() {
   var $list, truck, trucks, widget, _results;
   $.supersized({
@@ -23,7 +22,8 @@ $(function() {
     "WholeHogTruck": "344859366903656448",
     "PaniniTruckBflo": "344859430824845313",
     "thaimeuptruck": "344859485296271360",
-    "TheCheesyChick": "344859534478675968"
+    "TheCheesyChick": "344859534478675968",
+    "GelatoGypsy": "351738132753940481"
   };
   $list = $("#trucks");
   _results = [];

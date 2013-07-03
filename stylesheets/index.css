@@ -1,11 +1,4 @@
 @font-face {
-  font-family: 'AveriaSansRegular';
-  src: url("/fonts/averiasans-regular-webfont.eot");
-  src: url("/fonts/averiasans-regular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/averiasans-regular-webfont.woff") format("woff"), url("/fonts/averiasans-regular-webfont.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal; }
-
-@font-face {
   font-family: 'SubtleSansLightRegular';
   src: url("/fonts/subtlesanslight-webfont.eot");
   src: url("/fonts/subtlesanslight-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesanslight-webfont.woff") format("woff"), url("/fonts/subtlesanslight-webfont.ttf") format("truetype");
@@ -34,7 +27,7 @@ body {
   min-width: 980px;
   background: #110f0c;
   color: #fff;
-  font-family: "AveriaSansRegular"; }
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 #nav {
   list-style: none;
@@ -47,14 +40,13 @@ body {
 
 section {
   margin: 0 auto;
-  min-width: 980px;
   overflow: auto;
   width: 980px; }
   section article {
     position: relative;
     padding-top: 50px; }
     section article p {
-      width: 400px;
+      max-width: 400px;
       margin-bottom: 20px;
       font-size: 20px; }
     section article h2 {
@@ -87,7 +79,7 @@ section {
         text-decoration: underline; }
 
 #intro {
-  background: url("/images/buffalo1.jpg") 0 0 no-repeat fixed;
+  background: url("/images/buffalo1.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto;
   height: 800px; }
@@ -115,23 +107,23 @@ section {
         font-family: "SubtleSansLightRegular"; }
 
 #where {
-  background: url("/images/buffalo2.jpg") 0 0 no-repeat fixed;
+  background: url("/images/buffalo2.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
 
 #plans {
-  background: url("/images/buffalo3.jpg") 0 0 no-repeat fixed;
+  background: url("/images/buffalo3.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
   #plans p {
     margin-left: 515px;
     text-align: right;
-    width: 460px; }
+    max-width: 460px; }
   #plans h2 {
     text-align: right; }
 
 #community {
-  background: url("/images/buffalo4.jpg") 0 0 no-repeat fixed;
+  background: url("/images/buffalo4.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
   #community .slider-wrapper {
@@ -153,13 +145,13 @@ section {
       width: 100%; }
 
 #contact {
-  background: url("/images/buffalo5.jpg") 0 0 no-repeat fixed;
+  background: url("/images/buffalo5.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
   #contact p {
     margin-left: 515px;
     text-align: right;
-    width: 460px; }
+    max-width: 460px; }
   #contact h2 {
     text-align: right; }
   #contact #buffalo {
@@ -175,6 +167,8 @@ section {
         padding: 0;
         margin: 0; }
         #contact #brought ul li img {
+          width: 75px;
+          height: 75px;
           border: 3px solid black; }
 
 #herd {
@@ -275,7 +269,7 @@ section {
       font-size: 12px; }
 
 #faq > ul {
-  width: 770px;
+  max-width: 770px;
   margin-left: auto;
   margin-right: auto;
   margin-top: 20px;
@@ -295,7 +289,7 @@ section {
       font-size: 30px;
       margin-bottom: 15px; }
     #faq > ul > li p {
-      font-family: 'Helvetica Neue', Arial, sans-serif;
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 14px;
       margin-bottom: 10px; }
     #faq > ul > li blockquote {
@@ -310,11 +304,95 @@ section {
       #faq > ul > li > ul > li {
         width: 90%;
         font-size: 13px;
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         padding-bottom: 5px; }
     #faq > ul > li a, #faq > ul > li a:visited {
       color: #666; }
 
+@media screen and (max-width: 767px) {
+  body {
+    min-width: 100%; }
+
+  #supersized, #nav, #buffalo, .slider-wrapper {
+    display: none; }
+
+  section {
+    width: auto !important;
+    min-width: auto !important; }
+    section article {
+      position: relative; }
+      section article h2 {
+        font-size: 70px; }
+
+  #intro, #where, #plans, #community, #contact {
+    height: auto !important; }
+
+  #brought {
+    text-align: center !important; }
+    #brought img {
+      width: 50px !important;
+      height: 50px !important; }
+
+  #intro article h1 {
+    text-align: center;
+    padding-top: 10px;
+    line-height: 60px;
+    font-size: 60px; }
+    #intro article h1 span {
+      font-size: 60px; }
+  #intro article p {
+    width: auto;
+    text-align: center; }
+
+  #map {
+    display: none; }
+
+  #herd {
+    display: none; }
+
+  #plans h2, #contact h2 {
+    text-align: left; }
+  #plans p, #contact p {
+    margin-left: 0;
+    text-align: left; }
+
+  .subpage {
+    padding-top: 10px; }
+    .subpage h1 {
+      background: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: auto;
+      padding-right: auto;
+      font-size: 60px;
+      line-height: 50px;
+      word-spacing: 0; }
+    .subpage #header {
+      width: auto;
+      header: auto; }
+      .subpage #header p, .subpage #header h2 {
+        float: none;
+        text-align: center; }
+      .subpage #header p {
+        font-size: 10px;
+        margin-bottom: 10px; }
+
+  #food #trucks {
+    width: 100% !important; }
+    #food #trucks li {
+      width: 100% !important;
+      margin-top: 10px;
+      display: block; }
+      #food #trucks li iframe {
+        margin: 0 !important;
+        width: 100%;
+        padding: 0 !important; }
+
+  #links {
+    position: static;
+    text-align: center; }
+    #links li {
+      font-size: 12px; } }
 #food #footer {
   text-align: center;
   margin-bottom: 2em;
@@ -349,7 +427,7 @@ section {
       min-height: 300px; }
 
 #newsletter {
-  width: 770px;
+  max-width: 770px;
   margin-left: auto;
   margin-right: auto; }
   #newsletter form {
@@ -385,7 +463,7 @@ section {
       font-size: 30px;
       margin-top: 15px;
       margin-bottom: 15px;
-      font-family: "AveriaSansRegular"; }
+      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
     #newsletter article header h2 {
       margin-top: 0; }
     #newsletter article h3 {
@@ -407,7 +485,8 @@ section {
       color: #000; }
     #newsletter article img {
       display: block;
-      margin: 10px auto; }
+      margin: 10px auto;
+      max-width: 100%; }
 
 /* skip (inspired by okcupid iphone interface)
 *******************************************************************************/

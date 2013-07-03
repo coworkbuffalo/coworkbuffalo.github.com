@@ -5,7 +5,7 @@
 }
 
 @mixin parallax($id) {
-  background:url('/images/buffalo' + $id + '.jpg') 0 0 no-repeat fixed;
+  background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto;
 }
@@ -14,23 +14,12 @@
   p {
     margin-left: 515px;
     text-align: right;
-    width: 460px;
+    max-width: 460px;
   }
 
   h2 {
     text-align: right;
   }
-}
-
-@font-face {
-    font-family: 'AveriaSansRegular';
-    src: url('/fonts/averiasans-regular-webfont.eot');
-    src: url('/fonts/averiasans-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('/fonts/averiasans-regular-webfont.woff') format('woff'),
-         url('/fonts/averiasans-regular-webfont.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-
 }
 
 @font-face {
@@ -68,12 +57,13 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 */
 
 $width: 980px;
+$font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 body {
   min-width: $width;
   background: rgb(17, 15, 12);
   color: #fff;
-  font-family: "AveriaSansRegular";
+  font-family: $font;
 }
 
 #nav {
@@ -90,7 +80,6 @@ body {
 
 section {
   margin: 0 auto;
-  min-width: $width;
   overflow: auto;
   width: $width;
 
@@ -99,7 +88,7 @@ section {
     padding-top: 50px;
 
     p {
-      width: 400px;
+      max-width: 400px;
       margin-bottom: 20px;
       font-size: 20px;
     }
@@ -240,6 +229,8 @@ section {
         margin: 0;
 
         img {
+          width: 75px;
+          height: 75px;
           border: 3px solid black;
         }
       }
@@ -366,7 +357,7 @@ section {
 
 #faq {
   > ul {
-    width: 770px;
+    max-width: 770px;
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px;
@@ -391,7 +382,7 @@ section {
       }
 
       p {
-        font-family: 'Helvetica Neue', Arial, sans-serif;
+        font-family: $font;
         font-size: 14px;
         margin-bottom: 10px;
       }
@@ -413,7 +404,7 @@ section {
         > li {
           width: 90%;
           font-size: 13px;
-          font-family: 'Helvetica Neue', Arial, sans-serif;
+          font-family: $font;
           padding-bottom: 5px;
         }
       }
@@ -421,6 +412,135 @@ section {
       a, a:visited {
         color: #666;
       }
+    }
+  }
+}
+
+//@media only screen and (max-device-width: 480px) {
+@media screen and (max-width: 767px) {
+  body {
+    min-width: 100%;
+  }
+
+  #supersized, #nav, #buffalo, .slider-wrapper {
+    display: none;
+  }
+
+  section {
+    width: auto !important;
+    min-width: auto !important;
+
+    article {
+      position: relative;
+
+      h2 {
+        font-size: 70px;
+      }
+    }
+  }
+
+  #intro, #where, #plans, #community, #contact {
+    height: auto !important;
+  }
+
+  #brought {
+    text-align: center !important;
+
+    img {
+      width: 50px !important;
+      height: 50px !important;
+    }
+  }
+
+  #intro {
+    article {
+      h1 {
+        text-align: center;
+        padding-top: 10px;
+        line-height: 60px;
+        font-size: 60px;
+        span {
+          font-size: 60px;
+        }
+      }
+
+      p {
+        width: auto;
+        text-align: center;
+      }
+    }
+  }
+
+  #map {
+    display: none;
+  }
+
+  #herd {
+    display: none;
+  }
+
+  #plans, #contact {
+    h2 {
+      text-align: left;
+    }
+
+    p {
+      margin-left: 0;
+      text-align: left;
+    }
+  }
+
+  .subpage {
+    padding-top: 10px;
+
+    h1 {
+      background: none;
+      padding-top: 10px;
+      padding-bottom: 10px;
+      padding-left: auto;
+      padding-right: auto;
+      font-size: 60px;
+      line-height: 50px;
+      word-spacing: 0;
+    }
+
+    #header {
+      width: auto;
+      header: auto;
+
+      p, h2 {
+        float: none;
+        text-align: center;
+      }
+
+      p {
+        font-size: 10px;
+        margin-bottom: 10px;
+      }
+    }
+  }
+
+  #food #trucks {
+    width: 100% !important;
+
+    li {
+      width: 100% !important;
+      margin-top: 10px;
+      display: block;
+
+      iframe {
+        margin: 0 !important;
+        width: 100%;
+        padding: 0 !important;
+      }
+    }
+  }
+
+  #links {
+    position: static;
+    text-align: center;
+    li {
+      font-size: 12px;
     }
   }
 }
@@ -470,7 +590,7 @@ section {
 }
 
 #newsletter {
-  width: 770px;
+  max-width: 770px;
   margin-left: auto;
   margin-right: auto;
 
@@ -507,14 +627,14 @@ section {
     color: #000;
     padding: 20px;
     @include border-radius(10px);
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: $font;
     margin-bottom: 20px;
 
     h2 {
       font-size: 30px;
       margin-top: 15px;
       margin-bottom: 15px;
-      font-family: "AveriaSansRegular";
+      font-family: $font;
     }
 
     header h2 {
@@ -552,7 +672,8 @@ section {
 
     img {
       display: block;
-      margin: 10px auto
+      margin: 10px auto;
+      max-width: 100%;
     }
   }
 }

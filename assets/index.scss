@@ -416,8 +416,7 @@ section {
   }
 }
 
-//@media only screen and (max-device-width: 480px) {
-@media screen and (max-width: 767px) {
+@media only screen and (max-device-width: 480px) {
   body {
     min-width: 100%;
   }

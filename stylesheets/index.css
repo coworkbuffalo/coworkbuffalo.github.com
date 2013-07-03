@@ -309,7 +309,7 @@ section {
     #faq > ul > li a, #faq > ul > li a:visited {
       color: #666; }
 
-@media screen and (max-width: 767px) {
+@media only screen and (max-device-width: 480px) {
   body {
     min-width: 100%; }
 

@@ -382,7 +382,8 @@ section {
     #food #trucks li {
       width: 100% !important;
       margin-top: 10px;
-      display: block; }
+      display: block;
+      margin-right: 0 !important; }
       #food #trucks li iframe {
         margin: 0 !important;
         width: 100%;

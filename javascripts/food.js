@@ -15,6 +15,7 @@ $(function() {
     "FindFrankNow": "344858686004535296",
     "amys_truck": "344858789989728256",
     "RnRBBQTruck": "344858857568362496",
+    "GelatoGypsy": "357934093062778880",
     "SweetHearthNY": "344858930691833856",
     "RollingJoeCafe": "344858992918536192",
     "HouseOfMunch": "344859058567790596",

@@ -402,6 +402,7 @@ section {
   width: 990px;
   margin: 0 auto;
   list-style: none;
+  text-align: center;
   margin-bottom: 4em; }
   #food #trucks li {
     display: inline-block;

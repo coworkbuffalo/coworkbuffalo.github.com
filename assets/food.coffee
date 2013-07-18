@@ -5,19 +5,24 @@ $ ->
     "whereslloyd"      :  "344853196625309696",
     "RoamingBuffalo1"  :  "344857092533911552",
     "theBMFT"          :  "344858519096397824",
+
     "FindFrankNow"     :  "344858686004535296",
     "amys_truck"       :  "344858789989728256",
     "RnRBBQTruck"      :  "344858857568362496",
+
+    "GelatoGypsy"      :  "357934093062778880",
     "SweetHearthNY"    :  "344858930691833856",
     "RollingJoeCafe"   :  "344858992918536192",
+
     "HouseOfMunch"     :  "344859058567790596",
     "TheKnightSlider"  :  "344859260351561729",
     "MobileWoodFire"   :  "344859315275964417",
+
     "WholeHogTruck"    :  "344859366903656448",
     "PaniniTruckBflo"  :  "344859430824845313",
     "thaimeuptruck"    :  "344859485296271360",
-    "TheCheesyChick"   :  "344859534478675968",
-    "GelatoGypsy"      :  "351738132753940481"
+
+    "TheCheesyChick"   :  "344859534478675968"
   }
 
   $list = $("#trucks")

@@ -1,6 +1,6 @@
 ---
 layout: newsletter
-title: Lets All Go To Sams Club - Cowork Buffalo Newsletter For June 2012
+title: Lets All Go To Sams Club - Cowork Buffalo Newsletter For June 2013
 ---
 
 ### Contents ###

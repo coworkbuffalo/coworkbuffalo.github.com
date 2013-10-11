@@ -5,10 +5,10 @@ title: Lets All Go To Sams Club - Cowork Buffalo Newsletter For June 2012
 
 ### Contents ###
 
-+ <a href="#greetings">Greetings</a>
-+ <a href="#news">News and New Stuff</a>
-+ <a href="#what">What Can We Offer?</a>
-+ <a href="#host">As Always: Host Your Meetup Here</a>
++ [Greetings](#greetings)
++ [News and New Stuff](#news)
++ [What Can We Offer?](#what)
++ [As Always: Host Your Meetup Here](#host)
 
 ## <a name="greetings">Greetings</a> ##
 

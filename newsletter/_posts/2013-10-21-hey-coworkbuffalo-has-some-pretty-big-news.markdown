@@ -3,8 +3,6 @@ layout: newsletter
 title: Hey! CoworkBuffalo Has Some Pretty Big News
 ---
 
-## The Big News ##
-
 Come Dec. 2, CoworkBuffalo will be serving up its usual mix of strong Wi-Fi, smooth coffee, casual camaraderie, and community gathering space from a new location: **653 Main St., Suite 104**. That's right on soon-to-be-renovated Main Street, across from Shea's Performing Arts Center. We are really excited.
 
 None of us hit the lottery, and we're not taking on investments. We are simply comfortable and confident in our coworking project, and its members, after more than a year of operation. We want to provide the kind of space that helps people get things done and feel good about coming downtown to work, so we found a bigger, more accommodating space, not too far from where we are now. [You can see a few pictures of the space on the landlord's site](http://www.plazagroup.com/units/view/suite_104_653_main_st._buffalo_ny_14203) (until that link comes down).

@@ -2,11 +2,6 @@
 $(function() {
   var $header, $herd, $window, layer, location, map, onscroll;
   $window = $(window);
-  $('#nav').localScroll(800);
-  RepositionNav();
-  $window.resize(function() {
-    return RepositionNav();
-  });
   $header = $('h1');
   $herd = $('#herd');
   layer = new MM.StamenTileLayer("toner");

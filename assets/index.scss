@@ -191,8 +191,8 @@ section {
     float: right;
 
     .nivoSlider {
-      margin-bottom: 3px;
-      border: 10px solid rgba(255, 255, 255, 0.7);
+      font-style: italic;
+      margin-top: 150px;
       -webkit-background-clip: padding-box;
       background-clip: padding-box;
       @include border-radius(10px);
@@ -258,6 +258,20 @@ section {
     width: 400px;
     height: 300px;
     border: 5px solid #000;
+
+    $pin-size: 30px;
+
+    #pin {
+      position: absolute;
+      background-image: url(/images/coworkbuffalo.png);
+      background-size: $pin-size $pin-size;
+      width: $pin-size;
+      height: $pin-size;
+      background-repeat:no-repeat;
+      top: 50%;
+      left: 48%;
+      z-index: 99;
+    }
   }
 }
 

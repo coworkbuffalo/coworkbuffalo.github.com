@@ -11,7 +11,7 @@ $ ->
 
   layer    = new MM.StamenTileLayer("toner")
   map      = new MM.Map(document.getElementById("tile"), layer, null, null)
-  location = new MM.Location(42.890595,-78.876607)
+  location = new MM.Location(42.891618,-78.872079)
   map.setCenterZoom(location, 16)
   lastPosition  = 0
 
@@ -26,11 +26,3 @@ $ ->
 
   $("#map").click (event) ->
     window.location = $(this).find("a").attr("href")
-
-  $('#slider').nivoSlider
-    effect: 'fold'
-    pauseTime: 4000
-    randomStart: true
-    controlNav: false
-    directionNavHide: true
-    keyboardNav: false

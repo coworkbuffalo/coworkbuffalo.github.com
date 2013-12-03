@@ -1,11 +1,6 @@
 $ ->
   $window = $(window)
 
-  $('#nav').localScroll(800)
-  RepositionNav()
-  $window.resize ->
-    RepositionNav()
-
   $header = $('h1')
   $herd = $('#herd')
 

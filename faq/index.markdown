@@ -4,9 +4,7 @@ title: CoworkBuffalo - FAQ
 ---
 
 * ### What is coworking, exactly?
-It’s for people who can work anywhere they can bring a laptop, part-time or full-time, and who want something different than the isolation of home and the distracting coffee shop scene. More so, it’s for people who get more done by having a place to go, people nearby, and a sense of of being part of a small, smart community.  That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking):
-<br /><br />
-_Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space._
+It’s for people who can work anywhere they can bring a laptop, part-time or full-time, and who want something different than the isolation of home and the distracting coffee shop scene. More so, it’s for people who get more done by having a place to go, people nearby, and a sense of of being part of a small, smart community.  That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking): *"Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space."*
 
 * ### What’s it like in there?
 We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8peC1p5U) from our new space on Main Street. We need to get some professional photos, and how! But, for reference:

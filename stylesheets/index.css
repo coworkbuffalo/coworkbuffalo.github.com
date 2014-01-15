@@ -58,8 +58,8 @@ section {
 #links {
   position: absolute;
   background: #1f1916;
-  opacity: 0.4;
-  -moz-opacity: 0.4;
+  opacity: 0.6;
+  -moz-opacity: 0.6;
   z-index: 9999;
   right: 0;
   border-bottom-left-radius: 3px;
@@ -73,7 +73,7 @@ section {
     display: inline-block;
     padding: 5px; }
     #links li a {
-      color: #fff;
+      color: white;
       text-decoration: none; }
       #links li a:hover {
         text-decoration: underline; }
@@ -496,6 +496,11 @@ section {
       display: block;
       margin: 10px auto;
       max-width: 100%; }
+
+#food, #newsletter {
+  color: white; }
+  #food a, #food a:visited, #newsletter a, #newsletter a:visited {
+    color: white; }
 
 /* skip (inspired by okcupid iphone interface)
 *******************************************************************************/

@@ -59,6 +59,7 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 $width: 980px;
 $font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-color: #1F1916;
+$white: #fff;
 
 body {
   min-width: $width;
@@ -108,8 +109,8 @@ section {
 #links {
   position: absolute;
   background: $font-color;
-  opacity: 0.4;
-  -moz-opacity: 0.4;
+  opacity: 0.6;
+  -moz-opacity: 0.6;
   z-index: 9999;
   right: 0;
 
@@ -127,7 +128,7 @@ section {
     padding: 5px;
 
     a {
-      color: #fff;
+      color: $white;
       text-decoration: none;
 
       &:hover {
@@ -688,6 +689,14 @@ section {
       margin: 10px auto;
       max-width: 100%;
     }
+  }
+}
+
+#food, #newsletter {
+  color: $white;
+
+  a, a:visited {
+    color: $white;
   }
 }
 

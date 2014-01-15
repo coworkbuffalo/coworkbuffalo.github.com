@@ -5,7 +5,7 @@
 }
 
 @mixin parallax($id) {
-    background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
+  background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto;
 }
@@ -62,7 +62,7 @@ $font-color: #1F1916;
 
 body {
   min-width: $width;
-  background: rgb(255, 255, 255);
+  background: lighten(#3B342A, 79%);
   color: $font-color;
   font-family: $font;
 }

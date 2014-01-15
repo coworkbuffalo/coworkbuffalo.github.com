@@ -132,10 +132,7 @@ section {
     margin-right: 5px;
     float: right; }
     #community .slider-wrapper .nivoSlider {
-      margin-bottom: 3px;
-      border-radius: 10px;
-      -moz-border-radius: 10px;
-      -webkit-border-radius: 10px; }
+      margin-bottom: 3px; }
     #community .slider-wrapper p {
       font-size: 11px;
       text-align: right;

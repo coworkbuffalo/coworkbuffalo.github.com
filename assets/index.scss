@@ -5,7 +5,7 @@
 }
 
 @mixin parallax($id) {
-  background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
+    background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto;
 }
@@ -58,11 +58,12 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 
 $width: 980px;
 $font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-color: #1F1916;
 
 body {
   min-width: $width;
-  background: rgb(17, 15, 12);
-  color: #fff;
+  background: rgb(255, 255, 255);
+  color: $font-color;
   font-family: $font;
 }
 
@@ -99,16 +100,16 @@ section {
     }
 
     a, a:hover {
-      color: #fff;
+      color: $font-color;
     }
   }
 }
 
 #links {
   position: absolute;
-  background: #fff;
-  opacity: 0.7;
-  -moz-opacity: 0.7;
+  background: $font-color;
+  opacity: 0.4;
+  -moz-opacity: 0.4;
   z-index: 9999;
   right: 0;
 
@@ -126,7 +127,7 @@ section {
     padding: 5px;
 
     a {
-      color: #000;
+      color: #fff;
       text-decoration: none;
 
       &:hover {
@@ -191,10 +192,7 @@ section {
     float: right;
 
     .nivoSlider {
-      font-style: italic;
-      margin-top: 150px;
-      -webkit-background-clip: padding-box;
-      background-clip: padding-box;
+      margin-bottom: 3px;
       @include border-radius(10px);
     }
 
@@ -240,7 +238,7 @@ section {
 
 #herd {
   float: left;
-  background-image: url(/images/coworkbuffalo_white.png);
+  background-image: url(/images/coworkbuffalo_solid.png);
   background-repeat: repeat;
   width: 384px;
   height: 500px;
@@ -346,7 +344,7 @@ section {
   }
 
   a, a:hover {
-    color: #fff;
+    color: $font-color;
   }
 
   #header {

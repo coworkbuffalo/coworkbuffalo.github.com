@@ -25,8 +25,8 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 */
 body {
   min-width: 980px;
-  background: #110f0c;
-  color: #fff;
+  background: white;
+  color: #1f1916;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 #nav {
@@ -53,13 +53,13 @@ section {
       font-size: 130px;
       font-family: "SubtleSansLightRegular"; }
     section article a, section article a:hover {
-      color: #fff; }
+      color: #1f1916; }
 
 #links {
   position: absolute;
-  background: #fff;
-  opacity: 0.7;
-  -moz-opacity: 0.7;
+  background: #1f1916;
+  opacity: 0.4;
+  -moz-opacity: 0.4;
   z-index: 9999;
   right: 0;
   border-bottom-left-radius: 3px;
@@ -73,7 +73,7 @@ section {
     display: inline-block;
     padding: 5px; }
     #links li a {
-      color: #000;
+      color: #fff;
       text-decoration: none; }
       #links li a:hover {
         text-decoration: underline; }
@@ -131,10 +131,7 @@ section {
     margin-bottom: 0;
     float: right; }
     #community .slider-wrapper .nivoSlider {
-      font-style: italic;
-      margin-top: 150px;
-      -webkit-background-clip: padding-box;
-      background-clip: padding-box;
+      margin-bottom: 3px;
       border-radius: 10px;
       -moz-border-radius: 10px;
       -webkit-border-radius: 10px; }
@@ -173,7 +170,7 @@ section {
 
 #herd {
   float: left;
-  background-image: url(/images/coworkbuffalo_white.png);
+  background-image: url(/images/coworkbuffalo_solid.png);
   background-repeat: repeat;
   width: 384px;
   height: 500px;
@@ -263,7 +260,7 @@ section {
     .subpage h1 span {
       font-family: "SubtleSansLightRegular"; }
   .subpage a, .subpage a:hover {
-    color: #fff; }
+    color: #1f1916; }
   .subpage #header {
     margin: 0 auto;
     width: 770px;

@@ -24,3 +24,11 @@ $ ->
 
   $("#map").click (event) ->
     window.location = $(this).find("a").attr("href")
+
+  $('#slider').nivoSlider
+    effect: 'slideInRight'
+    pauseTime: 4000
+    randomStart: true
+    controlNav: false
+    directionNavHide: true
+    keyboardNav: false

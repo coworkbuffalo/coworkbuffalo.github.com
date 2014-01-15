@@ -498,9 +498,9 @@ section {
       margin: 10px auto;
       max-width: 100%; }
 
-#food, #newsletter {
+#faq, #food, #newsletter {
   color: white; }
-  #food a, #food a:visited, #newsletter a, #newsletter a:visited {
+  #faq a, #faq a:visited, #food a, #food a:visited, #newsletter a, #newsletter a:visited {
     color: white; }
 
 /* skip (inspired by okcupid iphone interface)

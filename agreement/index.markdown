@@ -7,7 +7,7 @@ id: agreement
 
 ### What is this?
 
-This is our Member Agreement, or basically, what members of CoworkBuffalo agree to when they use our space. It's both a legal document and goes over some of the finicky ground rules we've learned. Last revised: January 8, 2014
+This is our Member Agreement, or basically, what members of CoworkBuffalo agree to when they use our space. It's both a legal document and goes over some of the finicky ground rules we've learned. This document is based off [IndyHall](https://members.indyhall.org/agreement)'s. Last revised: January 8, 2014
 
 ### **The Member Agreement**
 

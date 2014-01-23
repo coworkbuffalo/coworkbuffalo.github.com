@@ -25,5 +25,5 @@ People asked to stop any harassing behavior are expected to comply immediately. 
 
 Please contact Nick Quaranto with any issues that arise: email [nick@coworkbuffalo.com](mailto:nick@coworkbuffalo.com) or call (716) 218-0236.
 
-This policy is based on [Double Union’s](http://www.doubleunion.org/policies) with their permission.
+This policy is based on [Double Union](http://www.doubleunion.org/policies)'s with their permission.
 

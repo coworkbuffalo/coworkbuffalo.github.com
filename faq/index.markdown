@@ -38,7 +38,7 @@ You've got a few options:
   * The Metro Rail stop at Fountain Plaza ([map](https://maps.google.com/maps?q=RAIL+at+Fountain+Plaza+Station&hl=en&hnear=RAIL+at+Fountain+Plaza+Station&t=m&z=16)) is three short blocks away. -->
 
 * ### How much does it cost to work at CoworkBuffalo?
-$100 per month, $10 per day, and, for a temporary/introductory prices, $75 for 10 “flex” (use any day) passes. Group discounts and other arrangements can also be negotiated.
+$125 per month, $15 per day, and, or $125 for a 10 visit “flex” (use any day) pass that expires in 3 months. Group discounts and other arrangements can also be negotiated.
 
 * ### How can I pay?
 We're working to integrate with [DeskTime](https://www.desktimeapp.com/), a nifty coworking and shared desk space management and payment system. In the meantime, we take credit card payments in-person through [Square](https://squareup.com/).

@@ -3,7 +3,7 @@ $(function() {
   return $.supersized({
     slides: [
       {
-        image: '/images/1900.jpg'
+        image: '/images/buffalo_1900.jpg'
       }
     ]
   });

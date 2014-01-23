@@ -1,2 +1,2 @@
 $ ->
-  $.supersized slides: [{image: '/images/1900.jpg'}]
+  $.supersized slides: [{image: '/images/buffalo_1900.jpg'}]

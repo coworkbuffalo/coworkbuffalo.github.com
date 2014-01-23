@@ -1,5 +1,5 @@
 $ ->
-  $.supersized slides: [{image: '/images/1900.jpg'}]
+  $.supersized slides: [{image: '/images/buffalo_1900.jpg'}]
 
   trucks = {
     "whereslloyd"      :  "344853196625309696",

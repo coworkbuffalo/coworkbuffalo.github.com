@@ -1,6 +1,8 @@
 ---
-layout: faq
+layout: subpage
 title: CoworkBuffalo - FAQ
+subtitle: FAQ
+id: faq
 ---
 
 * ### What is coworking, exactly?

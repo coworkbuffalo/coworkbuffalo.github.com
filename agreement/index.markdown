@@ -23,27 +23,27 @@ At the co-founders' discretion, or upon notice from other members, disruptive or
 
 These are the general rules we ask you to abide by:
 
-a. Indoor voice. We are all trying to get work done, so try to be mindful and respectful of others’ attention and time.  Generally, if someone has their headphones on, please respect their privacy (that's the most important rule we have).  Cowork is not a library, and collaboration is encouraged, but this is a workplace, first and foremost.
+**a. Indoor voice**. We are all trying to get work done, so try to be mindful and respectful of others’ attention and time.  Generally, if someone has their headphones on, please respect their privacy (that's the most important rule we have).  Cowork is not a library, and collaboration is encouraged, but this is a workplace, first and foremost.
 
-b. Phone calls. If you have a phone call and it will last just a minute or two, feel free to take it in the common areas.  If you are going to be on the phone for more than that, please use the phone rooms (or phone booth, if you're feeling old-time-y).  We paid to have them installed so that you and your fellow Coworkers could have some privacy and avoid the mental oddity of hearing half of a conversation.
+**b. Phone calls.** If you have a phone call and it will last just a minute or two, feel free to take it in the common areas.  If you are going to be on the phone for more than that, please use the phone rooms (or phone booth, if you're feeling old-time-y).  We paid to have them installed so that you and your fellow Coworkers could have some privacy and avoid the mental oddity of hearing half of a conversation.
 
 Some exceptions can be made, such as for those working in support jobs, where an occasional and not very talkative phone call of 5-10 minutes is necessary. We ask, however, that you keep your voice quiet, and, if you know that a call will persist for more than 5 minutes or be especially talkative, you take the call into a phone room.
 
-c. Harassment. Please read our [Anti-Harassment Policy](/policy). We have zero tolerance for harrassing our members or guests of Cowork. Members or guests violating the Anti-Harrassment Policy will be sanctioned or expelled from the space or the event at the discretion of the co-founders.
+**c. Harassment.** Please read our [Anti-Harassment Policy](/policy). We have zero tolerance for harrassing our members or guests of Cowork. Members or guests violating the Anti-Harrassment Policy will be sanctioned or expelled from the space or the event at the discretion of the co-founders.
 
-d. Guests.  Feel free to invite friends or guests for lunch, a quick meeting, or just to say hello.  However, if your guest is going to be here for more than an hour we would ask that they pay for a daily pass. Guests are required to adhere to the Rules of Cowork.
+**d. Guests.** Feel free to invite friends or guests for lunch, a quick meeting, or just to say hello.  However, if your guest is going to be here for more than an hour we would ask that they pay for a daily pass. Guests are required to adhere to the Rules of Cowork.
 
-e. Desk use. Every desk at CoworkBuffalo is for the community. At this point in time, we do not offer permanent desks. Please do not leave property on the desks or around the desks when you will not be working there that day. Take home what you bring in, or arrange with the co-founders for storage in an out-of-the-way area. Every evening and/or morning the desks will be cleared of items, which will be deposited in an area for collection. Leaving items on desks despite notice will result in a strike.
+**e. Desk use.** Every desk at CoworkBuffalo is for the community. At this point in time, we do not offer permanent desks. Please do not leave property on the desks or around the desks when you will not be working there that day. Take home what you bring in, or arrange with the co-founders for storage in an out-of-the-way area. Every evening and/or morning the desks will be cleared of items, which will be deposited in an area for collection. Leaving items on desks despite notice will result in a strike.
 
-f. Refrigerator. The refrigerator is primarily for storing that day's food, beverages, and some occasional leftovers from events. As a general policy, food that is older than one week and taking up space will be thrown out. Containers or food left in the refrigerator may be thrown out at any time at the discretion of the co-founders. Labeling your food will help us at least give you a heads up.
+**f. Refrigerator.** The refrigerator is primarily for storing that day's food, beverages, and some occasional leftovers from events. As a general policy, food that is older than one week and taking up space will be thrown out. Containers or food left in the refrigerator may be thrown out at any time at the discretion of the co-founders. Labeling your food will help us at least give you a heads up.
 
-g. Alcohol policy.  It is fine to relax with a nice drink, but please don’t do it before 5 p.m.  We do not tolerate intoxication at the space. Be mindful, too, that your “quitting time” does not match up with everybody else’s schedule.
+**g. Alcohol policy.**  It is fine to relax with a nice drink, but please don’t do it before 5 p.m.  We do not tolerate intoxication at the space. Be mindful, too, that your “quitting time” does not match up with everybody else’s schedule.
 
-h. Overnight use. We understand that our members may need to pull a late night of work every now and again. However, under no circumstances is sleeping at the space overnight allowed.
+**h. Overnight use.** We understand that our members may need to pull a late night of work every now and again. However, under no circumstances is sleeping at the space overnight allowed.
 
-i. Heat & air conditioning. We set the heat and air conditioning on a schedule that makes sense for most people. Please do not raise or lower the temperature more than 3 degrees. If the heat or air conditioning do not seem to be working, please notify a Cowork founder.
+**i. Heat & air conditioning.** We set the heat and air conditioning on a schedule that makes sense for most people. Please do not raise or lower the temperature more than 3 degrees. If the heat or air conditioning do not seem to be working, please notify a Cowork founder.
 
-j. Locks. The doors are automatically locked most of the time. We have large windows that look in on our members' gear and our supplies. Do not do anything to allow the doors to be unlocked for any notable length of time. If you believe the doors are not locked when you leave the space, it is your duty to notify a Cowork cofounder of the situation.
+**j. Locks.** The doors are automatically locked most of the time. We have large windows that look in on our members' gear and our supplies. Do not do anything to allow the doors to be unlocked for any notable length of time. If you believe the doors are not locked when you leave the space, it is your duty to notify a Cowork cofounder of the situation.
 
 ### 2. Community
 

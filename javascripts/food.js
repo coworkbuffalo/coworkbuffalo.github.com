@@ -26,7 +26,8 @@ $(function() {
     "FallyMac716": "390857498162249728",
     "thaimeuptruck": "344859485296271360",
     "TheCheesyChick": "344859534478675968",
-    "greekonstreet": "359790551186407425"
+    "greekonstreet": "359790551186407425",
+    "BettyCrockski": "443552085615730688"
   };
   $list = $("#trucks");
   _results = [];

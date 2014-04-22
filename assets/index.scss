@@ -58,11 +58,13 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 
 $width: 980px;
 $font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-color: #1F1916;
+$white: #fff;
 
 body {
   min-width: $width;
-  background: rgb(17, 15, 12);
-  color: #fff;
+  background: lighten(#3B342A, 79%);
+  color: $font-color;
   font-family: $font;
 }
 
@@ -99,16 +101,16 @@ section {
     }
 
     a, a:hover {
-      color: #fff;
+      color: $font-color;
     }
   }
 }
 
 #links {
   position: absolute;
-  background: #fff;
-  opacity: 0.7;
-  -moz-opacity: 0.7;
+  background: $font-color;
+  opacity: 0.6;
+  -moz-opacity: 0.6;
   z-index: 9999;
   right: 0;
 
@@ -126,7 +128,7 @@ section {
     padding: 5px;
 
     a {
-      color: #000;
+      color: $white;
       text-decoration: none;
 
       &:hover {
@@ -188,14 +190,11 @@ section {
   .slider-wrapper {
     margin-top: 55px;
     margin-bottom: 0;
+    margin-right: 5px;
     float: right;
 
     .nivoSlider {
-      font-style: italic;
-      margin-top: 150px;
-      -webkit-background-clip: padding-box;
-      background-clip: padding-box;
-      @include border-radius(10px);
+      margin-bottom: 3px;
     }
 
     p {
@@ -240,7 +239,7 @@ section {
 
 #herd {
   float: left;
-  background-image: url(/images/coworkbuffalo_white.png);
+  background-image: url(/images/coworkbuffalo_solid.png);
   background-repeat: repeat;
   width: 384px;
   height: 500px;
@@ -346,7 +345,7 @@ section {
   }
 
   a, a:hover {
-    color: #fff;
+    color: $font-color;
   }
 
   #header {
@@ -370,7 +369,12 @@ section {
 }
 
 #faq {
-  > ul {
+  article {
+    background: transparent;
+    padding: 0;
+  }
+
+  article > ul {
     max-width: 770px;
     margin-left: auto;
     margin-right: auto;
@@ -604,7 +608,7 @@ section {
   }
 }
 
-#newsletter {
+.longform {
   max-width: 770px;
   margin-left: auto;
   margin-right: auto;
@@ -620,13 +624,12 @@ section {
     }
 
     input[type=text] {
-      background: #E3E3E3;
       border: 1px solid #BBB;
       border-radius: 3px;
       -webkit-box-shadow: inset 0 0 1px 1px #F6F6F6;
       box-shadow: inset 0 0 1px 1px #F6F6F6;
       color: #333;
-      padding: 10px 0 9px;
+      padding: 11px 0 11px;
       text-align: center;
       text-shadow: 0 1px 0 white;
       width: 200px;

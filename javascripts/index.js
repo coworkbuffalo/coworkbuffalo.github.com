@@ -24,7 +24,15 @@ $(function() {
     }
   };
   $window.bind('scroll', $.throttle(25, onscroll));
-  return $("#map").click(function(event) {
+  $("#map").click(function(event) {
     return window.location = $(this).find("a").attr("href");
+  });
+  return $('#slider').nivoSlider({
+    effect: 'slideInRight',
+    pauseTime: 4000,
+    randomStart: true,
+    controlNav: false,
+    directionNavHide: true,
+    keyboardNav: false
   });
 });

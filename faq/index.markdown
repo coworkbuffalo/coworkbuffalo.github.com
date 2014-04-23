@@ -10,19 +10,20 @@ It’s for people who can work anywhere they can bring a laptop, part-time or fu
 
 * ### What’s it like in there?
 We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8peC1p5U) from our new space on Main Street. We need to get some professional photos, and how! But, for reference:
-  * Seven 200 cm desks in the front "bullpen" area (conversation, window views) with a dozen rocker office chairs.
-  * Three solo desks that accomodate secondary monitors.
+  * Eight group desks in the front "bullpen" area (conversation, window views)
+  * Five solo glass desks that accomodate raised secondary monitors.
+  * Good chairs
   * Air conditioning and heating (notable in Buffalo!)
-  * Three phone rooms for calls and Skype conferences, and our old-time-y, nostalgic phone booth for some weird reason.
-  * Windows with a view of Main Street, the Metro Rail trains, and Shea's Buffalo (pretty beautiful at sunset).
-  * A microwave, two small fridges, a sink and Brita pitcher.
-  * Free snacks and coffee.
+  * Three phone rooms for calls and Skype conferences
+  * Windows with a view of Main Street, the Metro Rail trains, and Shea's Buffalo (pretty beautiful at sunset)
+  * A full-size fridge and freezer, a microwave, a sink
+  * Free snacks and delicious coffee and tea provisions
 
 * ### How could you honestly get more work done around other people?
 At a minimum, there is great power in knowing that people can see how many Wikipedia tabs you have open, and whether or not you’re shooting things or stacking cards on your screen. More specifically, there are, sure, some small distractions of people chatting, getting up, and so on. But the big distractions of home (waiting on UPS, guilt over chores, entertainment) and coffee shops (variable music, close quarters, power/Wi-Fi limits) are gone. 
 
 * ### How is the Wi-Fi?
-Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 10 mbps down and 1 mbps up.
+Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 35 mbps down and 5 mbps up.
 
 * ### Where is CoworkBuffalo?
 [653 Main St., Suite 104](https://maps.google.com/maps?t=m&ll=42.89123039999998%2C-78.8745409&q=coworkbuffalo&spn=0.0031989896548163146%2C0.005821800114064703&output=classic). It’s two doors to the left of the Bijou Grill (facing from Main St.), and across from Shea's Ticket Office. (You typically park on Washington, Ellicott, or another nearby street to the East.

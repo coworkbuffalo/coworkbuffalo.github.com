@@ -6,9 +6,7 @@ id: faq
 ---
 
 * ### What is coworking, exactly?
-It’s for people who can work anywhere they can bring a laptop, part-time or full-time, and who want something different than the isolation of home and the distracting coffee shop scene.
-
-It’s for people who get more done by having a place to go, people nearby, and a sense of of being part of a small, smart community.  That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking): *"Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space."*
+It’s for people who can work anywhere they can bring a laptop, but who want something different than the isolation of home and the distracting coffee shop scene. It’s for people who get more done by having a place to go, people nearby, and a sense of of being part of a small, smart community.  That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking): *"Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space."*
 
 * ### What’s it like in there?
 We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8peC1p5U) from our new space on Main Street. We need to get some professional photos, and how! But, for reference:
@@ -50,9 +48,7 @@ We use [DeskTime](https://www.desktimeapp.com/), a nifty desk sharing and paymen
 [Nick Quaranto](http://twitter.com/qrush), [Kevin Purdy](http://twitter.com/kevinpurdy), [Dan Magnuszewski](http://twitter.com/magnachef), and [Brian Fending](http://twitter.com/fending), with [Kevin Christner](http://twitter.com/sailflyer) joining later on. They are not doing this with the hopes of retiring early. They just want to try creating something neat and helpful for semi-nomadic workers like themselves. 
 
 * ### What’s the coffee situation?
-We buy local or regional coffee roasted _very_ recently: [Joe Bean](http://joebeanroasters.com/), [Public Espresso](http://www.publicespresso.com/), sometimes [Gimme Coffee](http://www.gimmecoffee.com/), and often bags that the founders and friends bring in.
-
-We make batches of coffee twice daily in a [Chemex](http://www.chemexcoffeemaker.com/), and offer individual pour-over [Hario V60 cups](http://www.gimmecoffee.com/galleries/brewing_at_home_part_5_pour_ov/) for when you need in-between beans. We have mugs, but you are very welcome to bring your coolest mug, too. For those more needing a walk, or off-hours coffee, there are the usual Dunkin' Donuts, Starbucks, and Spot options within walking distance.
+We buy local or regional coffee roasted _very_ recently: [Joe Bean](http://joebeanroasters.com/), [Public Espresso](http://www.publicespresso.com/), sometimes [Gimme Coffee](http://www.gimmecoffee.com/), and often bags that the founders and friends bring in. We make coffee in a [Chemex](http://www.chemexcoffeemaker.com/) carafe, and offer individual pour-over [Hario V60 cups](http://www.gimmecoffee.com/galleries/brewing_at_home_part_5_pour_ov/). For those more needing a walk, or off-hours coffee, there are the usual Dunkin' Donuts, Starbucks, and Spot options within walking distance.
 
 * ### Where can I eat nearby?
 Nick created a [handy-scan grid of Buffalo’s food trucks](http://coworkbuffalo.com/food/), so you can see when they’re on Main Streeet or otherwise nearby. In more stationary eats, we have [Sue's New York Deli](http://www.suesnydeli.com/), [Seabar](http://seabarsushi.com/), the [Washington Market](http://thewashingtonmarket.com/), and [Dinosaur Bar-B-Que](http://www.dinosaurbarbque.com/).

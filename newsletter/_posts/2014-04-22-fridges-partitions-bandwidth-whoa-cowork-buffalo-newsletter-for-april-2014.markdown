@@ -8,7 +8,7 @@ title: Fridges, Partitions, Bandwidth, Whoa - CoworkBuffalo Newsletter for April
 + [Greetings](#greetings)
 + [The Kickstarter and Aftermath](#kickstarter)
 + [New Stuff](#newstuff)
-+ [Meetings & Events](#host)
++ [Meetings and Events](#host)
 
 ## <a name="greetings">Greetings</a> ##
 
@@ -46,7 +46,7 @@ In any case, that Kickstarter allowed us to expand our space in some significant
 
 + Painted and soon-to-be-soundproofed phone rooms.
 
-## <a name="host">Meetings & Events</a> ##
+## <a name="host">Meetings and Events</a> ##
 
 CoworkBuffalo is now the evening host for a number of organizations and groups: [Communify](https://www.facebook.com/CommunifyBuffalo), [Buffalo Soccer Council](http://www.buffalosoccercouncil.org/), [TEDxBuffalo](http://tedxbuffalo.com), [Buffalo Open Data](http://buffaloopendata.com/), and more. We have also hosted an event for [Social Media Club Buffalo](http://socialmediaclub.org/chapter/buffalo), and hosted our own Kickstarter party with 45+ people.
 

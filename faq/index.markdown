@@ -26,7 +26,18 @@ At a minimum, there is great power in knowing that people can see how many Wikip
 Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 35 mbps down and 5 mbps up.
 
 * ### Where is CoworkBuffalo?
-[653 Main St., Suite 104](https://maps.google.com/maps?t=m&ll=42.89123039999998%2C-78.8745409&q=coworkbuffalo&spn=0.0031989896548163146%2C0.005821800114064703&output=classic). It’s two doors to the left of the Bijou Grill (facing from Main St.), and across from Shea's Ticket Office. (You typically park on Washington, Ellicott, or another nearby street to the East.
+[653 Main St., Suite 104](https://maps.google.com/maps?t=m&ll=42.89123039999998%2C-78.8745409&q=coworkbuffalo&spn=0.0031989896548163146%2C0.005821800114064703&output=classic). It’s two doors to the left of the Bijou Grill (facing from Main St.), and across from Shea's Ticket Office.
+
+* ### Where do I park?
+We have to say that a good number of us have an easier time getting downtown by other means: biking, riding the [Metro Rail or bus](http://metro.nfta.com/Trip/Trip_Planner.asp), or arranging a carpool.
+
+But we all have stuff we need to haul, and schedules that demand cars. The good news is, if you can scrounge up 8 quarters, it's really not too hard to find an all-day spot near our space; the streets to the East of us are full of them. And there are a handful of 8- or 10-hour spaces that take credit cards!
+
+We made [a map of parking options near CoworkBuffalo](https://mapsengine.google.com/map/u/0/edit?hl=en&authuser=0&mid=zfY0mqLBFK98.ks2vFLFWhaeQ), which you can hopefully see below:
+
+{% include parkingmap.html %}
+
+When all else fails, there are almost always 2-hours spots nearby; set a timer on your phone and pretend you're taking exercise breaks.
 
 * ### When are you open?
 10am-6pm, Monday through Friday, excluding holidays. Members and visitors who need earlier access can usually be accommodated, and monthly members will soon get access.

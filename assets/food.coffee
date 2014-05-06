@@ -25,6 +25,14 @@ $ ->
     "thaimeuptruck"    :  "344859485296271360",
     "TheCheesyChick"   :  "344859534478675968",
     "greekonstreet"    :  "359790551186407425",
+
+    "BettyCrockski"    :  "463677794044502016",
+    "Macarollin"       :  "463678250967773184",
+    "Gr8Foodini"       :  "463678118729773057",
+
+    "daBlueFoodTruck"  :  "463678197574291456",
+    "buffalosbestbbq"  :  "463678306605232130",
+    "WineNotWNY"       :  "463678502936387585",
   }
 
   $list = $("#trucks")

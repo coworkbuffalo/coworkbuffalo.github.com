@@ -10,29 +10,33 @@ $ ->
     "amys_truck"       :  "344858789989728256",
     "RnRBBQTruck"      :  "344858857568362496",
 
-    "GelatoGypsy"      :  "357934093062778880",
     "SweetHearthNY"    :  "344858930691833856",
-    "RollingJoeCafe"   :  "344858992918536192",
-
     "HouseOfMunch"     :  "344859058567790596",
     "TheKnightSlider"  :  "344859260351561729",
-    "MobileWoodFire"   :  "344859315275964417",
 
+    "MobileWoodFire"   :  "344859315275964417",
     "WholeHogTruck"    :  "344859366903656448",
     "PaniniTruckBflo"  :  "344859430824845313",
-    "FallyMac716"      :  "390857498162249728",
 
+    "buffalosbestbbq"  :  "463678306605232130",
     "thaimeuptruck"    :  "344859485296271360",
     "TheCheesyChick"   :  "344859534478675968",
-    "greekonstreet"    :  "359790551186407425",
 
+    "greekonstreet"    :  "359790551186407425",
     "BettyCrockski"    :  "463677794044502016",
     "Macarollin"       :  "463678250967773184",
-    "Gr8Foodini"       :  "463678118729773057",
 
-    "daBlueFoodTruck"  :  "463678197574291456",
-    "buffalosbestbbq"  :  "463678306605232130",
-    "WineNotWNY"       :  "463678502936387585",
+    "Gr8Foodini"       :  "463678118729773057",
+    "flaminfishtruck"  :  "620631633335443457",
+    "findthecrawdad"   :  "620631887778721792",
+
+    "streeteatsbflo"   :  "620632069501161472",
+    "PhillyFlattop"    :  "620632249898143744",
+    "716ClubHouse"     :  "620633236197109760",
+
+    "taffystruck"      :  "620632437719109632",
+    "Sassi_Cakes"      :  "620632908299005952",
+    "bigsuzies"        :  "620633102260416512"
   }
 
   $list = $("#trucks")

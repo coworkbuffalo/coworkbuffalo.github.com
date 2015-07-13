@@ -4,14 +4,12 @@
   src: url("/fonts/subtlesanslight-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesanslight-webfont.woff") format("woff"), url("/fonts/subtlesanslight-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
-
 @font-face {
   font-family: 'SubtleSansRegularRegular';
   src: url("/fonts/subtlesansregular-webfont.eot");
   src: url("/fonts/subtlesansregular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesansregular-webfont.woff") format("woff"), url("/fonts/subtlesansregular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
-
 /*
 Lots of code based on this plugin:
 
@@ -26,7 +24,7 @@ License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike
 body {
   min-width: 980px;
   background: #fcfcfb;
-  color: #1f1916;
+  color: #1F1916;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 #nav {
@@ -53,11 +51,11 @@ section {
       font-size: 130px;
       font-family: "SubtleSansLightRegular"; }
     section article a, section article a:hover {
-      color: #1f1916; }
+      color: #1F1916; }
 
 #links {
   position: absolute;
-  background: #1f1916;
+  background: #1F1916;
   opacity: 0.6;
   -moz-opacity: 0.6;
   z-index: 9999;
@@ -73,7 +71,7 @@ section {
     display: inline-block;
     padding: 5px; }
     #links li a {
-      color: white;
+      color: #fff;
       text-decoration: none; }
       #links li a:hover {
         text-decoration: underline; }
@@ -258,7 +256,7 @@ section {
     .subpage h1 span {
       font-family: "SubtleSansLightRegular"; }
   .subpage a, .subpage a:hover {
-    color: #1f1916; }
+    color: #1F1916; }
   .subpage #header {
     margin: 0 auto;
     width: 770px;
@@ -533,3 +531,5 @@ button.skip:hover {
 button.skip:active {
   -webkit-box-shadow: inset 0 0 20px 0 #1d2845, 0 1px 0 white;
   box-shadow: inset 0 0 20px 0 #1d2845, 0 1px 0 white; }
+
+/*# sourceMappingURL=index.css.map */

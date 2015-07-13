@@ -1,7 +1,7 @@
 desc "compile and run the site"
 task :default do
   pids = [
-    spawn("jekyll"),
+    spawn("bundle exec jekyll serve"),
     spawn("scss --watch assets:stylesheets"),
     spawn("coffee -b -w -o javascripts -c assets/*.coffee")
   ]

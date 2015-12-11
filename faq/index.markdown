@@ -42,13 +42,13 @@ $125 per month, $15 per day, and, or $125 for a 10 visit “flex” (use any day
 We use [DeskTime](https://www.desktimeapp.com/), a nifty desk sharing and payment system, that makes one-time and recurring credit/debit card payments real easy-like.
 
 * ### Who launched this, and why?
-[Nick Quaranto](http://twitter.com/qrush), [Kevin Purdy](http://twitter.com/kevinpurdy), [Dan Magnuszewski](http://twitter.com/magnachef), and [Brian Fending](http://twitter.com/fending), with [Kevin Christner](http://twitter.com/sailflyer) joining later on. They are not doing this with the hopes of retiring early. They just want to try creating something neat and helpful for semi-nomadic workers like themselves. 
+[Nick Quaranto](http://twitter.com/qrush), [Kevin Purdy](http://twitter.com/kevinpurdy), [Dan Magnuszewski](http://twitter.com/magnachef), and [Brian Fending](http://twitter.com/fending), with [Kevin Christner](http://twitter.com/sailflyer) and [Michael Macaluso](http://twitter.com/mikemikemac) joining later on. They did not do this with the hopes of retiring early. They just want to try creating something neat and helpful for semi-nomadic workers like themselves. 
 
 * ### What’s the coffee situation?
 We buy local or regional coffee roasted _very_ recently: [Joe Bean](http://joebeanroasters.com/), [Public Espresso](http://www.publicespresso.com/), sometimes [Gimme Coffee](http://www.gimmecoffee.com/), and often bags that the founders and friends bring in. We make coffee in a [Chemex](http://www.chemexcoffeemaker.com/) carafe, and offer individual pour-over [Hario V60 cups](http://www.gimmecoffee.com/galleries/brewing_at_home_part_5_pour_ov/). For those more needing a walk, or off-hours coffee, there are the usual Dunkin' Donuts, Starbucks, and Spot options within walking distance.
 
 * ### Where can I eat nearby?
-Nick created a [handy-scan grid of Buffalo’s food trucks](http://coworkbuffalo.com/food/), so you can see when they’re on Main Streeet or otherwise nearby. In more stationary eats, we have [Sue's New York Deli](http://www.suesnydeli.com/), [Seabar](http://seabarsushi.com/), the [Washington Market](http://thewashingtonmarket.com/), and [Dinosaur Bar-B-Que](http://www.dinosaurbarbque.com/).
+As of December 2015, there are a _lot_ of good spots to eat nearby, probably too many to list. [Here's a Google Map](https://www.google.com/maps/search/lunch/@42.8916723,-78.8743828,17z/data=!3m1!4b1!4m8!2m7!3m6!1slunch!2sCoworkBuffalo,+653+Main+St+%23104,+Buffalo,+NY+14203,+United+States!3s0x89d3124e8cee37db:0xe86f491897286e52!4m2!1d-78.8721941!2d42.8916645). Our favorite daily go-to is [Sue's New York Deli](http://www.suesnydeli.com/). Nick also created a [handy-scan grid of Buffalo’s food trucks](http://coworkbuffalo.com/food/), so you can see when they’re on Main Streeet or otherwise nearby.
 
 * ### I have more questions. Who do I contact?
   * Email: [work@coworkbuffalo.com](mailto:work@coworkbuffalo.com)

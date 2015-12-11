@@ -6,24 +6,21 @@ id: faq
 ---
 
 * ### What is coworking, exactly?
-It’s for people who can work anywhere they can bring a laptop, but who want something different than the isolation of home and the distracting coffee shop scene. It’s for people who get more done by having a place to go, people nearby, and a sense of of being part of a small, smart community.  That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking): *"Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space."*
+It’s for people who can work anywhere they can bring a laptop, but are tired of working from home, or coffee shops. It’s for people who get more done by having a place to go, with people nearby. That’s our take. Wikipedia's nerds came to [this consensus definition](http://en.wikipedia.org/wiki/Coworking): *"Coworking is the social gathering of a group of people, who are still working independently, but who share values, and who are interested in the synergy that can happen from working with talented people in the same space."*
 
 * ### What’s it like in there?
-We have [some preliminary photos](https://www.dropbox.com/sh/uy0r6tkwvei8m7q/Mt8peC1p5U) from our new space on Main Street. We need to get some professional photos, and how! But, for reference:
-  * Eight group desks in the front "bullpen" area (conversation, window views)
+We have [a few preliminary photos of the space](http://coworkbuffalo.com/images/photos/), with more to come. In words:
+  * Four group desks in the front "bullpen" area
   * Five solo glass desks that accomodate raised secondary monitors.
-  * Good chairs
-  * Air conditioning and heating (notable in Buffalo!)
+  * Solid chairs
+  * Air conditioning and heating
   * Three phone rooms for calls and Skype conferences
   * Windows with a view of Main Street, the Metro Rail trains, and Shea's Buffalo (pretty beautiful at sunset)
   * A full-size fridge and freezer, a microwave, a sink
-  * Free snacks and delicious coffee and tea provisions
-
-* ### How could you honestly get more work done around other people?
-At a minimum, there is great power in knowing that people can see how many Wikipedia tabs you have open, and whether or not you’re shooting things or stacking cards on your screen. More specifically, there are, sure, some small distractions of people chatting, getting up, and so on. But the big distractions of home (waiting on UPS, guilt over chores, entertainment) and coffee shops (variable music, close quarters, power/Wi-Fi limits) are gone. 
+  * Delicious coffee and tea provisions
 
 * ### How is the Wi-Fi?
-Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 35 mbps down and 5 mbps up.
+Quite solid. It’s a Time Warner Cable business line, which means a stable, honest 50 mbps down and 10 mbps up.
 
 * ### Where is CoworkBuffalo?
 [653 Main St., Suite 104](https://maps.google.com/maps?t=m&ll=42.89123039999998%2C-78.8745409&q=coworkbuffalo&spn=0.0031989896548163146%2C0.005821800114064703&output=classic). It’s two doors to the left of the Bijou Grill (facing from Main St.), and across from Shea's Ticket Office. (You typically park on Washington, Ellicott, or another nearby street to the East.

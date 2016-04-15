@@ -49,19 +49,22 @@ Some exceptions can be made, such as for those working in support jobs, where an
 
 Believe in yourself, believe in others, and especially believe in the collaborative power of the Cowork community. Network. Collaborate. Work hard. Have fun. Improve Cowork for all. Give input to make Cowork better. And if this isn't your sort of thing, see 1. Conduct.
 
-### 3. Changes
+### 3. Environmental Stewardship
+Cowork values responsible recycling in all possible forms. This includes disposing of refuse that could present dangers through the contamination and pollution of the environment. These forms of hazardous waste require special disposal techniques to make them harmless or less dangerous. Cowork has requested appropriate recycling totes from the City of Buffalo, in order that member might dispose of refuse responsibly. This policy herein mandates that refuse in question be disposed of accordingly; this includes items that may pose a threat to human health or the environment. Such items should not be thrown away with general municipal waste (e.g. printer cartridges, certain batteries, CFL bulbs, etc). Do your best to dispose of such waste accordingly, and when in doubt, check with a Cowork cofounder.
+
+### 4. Changes
 
 We will do our best to notify members of changes to the Rules and this agreement. We will strive to keep an up-to-date copy of this agreement on Cowork’s website.
 
-### 4. Fees
+### 5. Fees
 
 We collect fees for monthly memberships, day passes, 10-packs, and after-hours usage through (mostly) automatic credit card billing. If you believe you have been billed in error, you should contact the co-founders before disputing the charge with your card company (they are usually easy to solve). You are expected to pay for services up front; Cowork cannot maintain a "tab" for you.
 
-### 5. Termination
+### 6. Termination
 
 See section 1. Conduct for reference to what actions could lead to termination of your Cowork membership. Beyond those day-to-day rules, you agree not to use Cowork for any purpose that is unlawful, prohibited, or that could damage, disable or impair any of the Cowork Stuff, or keep other members from using the Cowork Stuff, or that would hurt Cowork as an ongoing business. This also means you won't attempt to gain access to any computer systems or networks of Cowork (beyond general web access), or attempt to obtain any materials or information not intentionally made available to all Cowork members. If you attempt to do any of these bad things, then forget about the three strikes under Rules of Cowork No. 1, as your membership may be terminated immediately with notice from Cowork. 
 
-### 6. Connections
+### 7. Connections
 
 You also agree not to use Cowork or Cowork Stuff in connection with:
 

@@ -186,12 +186,13 @@ section {
 
 #community {
   @include parallax(4);
+  @include righty;
 
   .slider-wrapper {
     margin-top: 55px;
     margin-bottom: 0;
     margin-right: 5px;
-    float: right;
+    float: left;
 
     .nivoSlider {
       margin-bottom: 3px;
@@ -199,7 +200,6 @@ section {
 
     p {
       font-size: 11px;
-      text-align: right;
       margin: 0;
       width: 100%;
     }
@@ -208,15 +208,15 @@ section {
 
 #contact {
   @include parallax(5);
-  @include righty;
 
   #buffalo {
     margin-top: 60px;
-    float: left;
+    float: right;
   }
 
   #brought {
-    text-align: right;
+    text-align: left;
+    float: left;
     margin-top: 10px;
 
     ul {

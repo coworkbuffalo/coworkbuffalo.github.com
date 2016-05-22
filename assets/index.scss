@@ -460,8 +460,9 @@ section {
     height: auto !important;
   }
 
-  #brought {
+  #contact #brought {
     text-align: center !important;
+    float: none !important;
 
     img {
       width: 50px !important;
@@ -496,7 +497,7 @@ section {
     display: none;
   }
 
-  #plans, #contact {
+  #plans, #community {
     h2 {
       text-align: left;
     }

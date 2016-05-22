@@ -333,9 +333,10 @@ section {
   #intro, #where, #plans, #community, #contact {
     height: auto !important; }
 
-  #brought {
-    text-align: center !important; }
-    #brought img {
+  #contact #brought {
+    text-align: center !important;
+    float: none !important; }
+    #contact #brought img {
       width: 50px !important;
       height: 50px !important; }
 
@@ -356,9 +357,9 @@ section {
   #herd {
     display: none; }
 
-  #plans h2, #contact h2 {
+  #plans h2, #community h2 {
     text-align: left; }
-  #plans p, #contact p {
+  #plans p, #community p {
     margin-left: 0;
     text-align: left; }
 

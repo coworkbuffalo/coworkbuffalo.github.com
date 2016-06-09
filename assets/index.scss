@@ -4,12 +4,6 @@
   -webkit-border-radius: $radius;
 }
 
-@mixin parallax($id) {
-  background:url('/images/buffalo' + $id + '.jpg') 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto;
-}
-
 @mixin righty {
   p {
     margin-left: 515px;
@@ -44,18 +38,6 @@
 
 }
 
-/*
-Lots of code based on this plugin:
-
-Plugin: jQuery Parallax
-Version 1.1
-Author: Ian Lunn
-Author URL: http://www.ianlunn.co.uk/
-Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
-
-License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
-*/
-
 $width: 980px;
 $font: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $font-color: #1F1916;
@@ -63,9 +45,9 @@ $white: #fff;
 
 body {
   min-width: $width;
-  background: lighten(#3B342A, 79%);
   color: $font-color;
   font-family: $font;
+  background: lighten(#3B342A, 79%) url('/images/buffalo1.jpg') 0 0 repeat fixed;
 }
 
 #nav {
@@ -139,9 +121,6 @@ section {
 }
 
 #intro {
-  @include parallax(1);
-  height: 800px;
-
   article {
     padding-top: 0;
 
@@ -175,18 +154,11 @@ section {
   }
 }
 
-#where {
-  @include parallax(2);
-}
-
 #plans {
-  @include parallax(3);
   @include righty;
 }
 
 #community {
-  @include parallax(4);
-
   .slider-wrapper {
     margin-top: 55px;
     margin-bottom: 0;
@@ -207,7 +179,6 @@ section {
 }
 
 #contact {
-  @include parallax(5);
   @include righty;
 
   #buffalo {

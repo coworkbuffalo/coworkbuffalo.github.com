@@ -10,22 +10,11 @@
   src: url("/fonts/subtlesansregular-webfont.eot?#iefix") format("embedded-opentype"), url("/fonts/subtlesansregular-webfont.woff") format("woff"), url("/fonts/subtlesansregular-webfont.ttf") format("truetype");
   font-weight: normal;
   font-style: normal; }
-/*
-Lots of code based on this plugin:
-
-Plugin: jQuery Parallax
-Version 1.1
-Author: Ian Lunn
-Author URL: http://www.ianlunn.co.uk/
-Plugin URL: http://www.ianlunn.co.uk/plugins/jquery-parallax/
-
-License: http://creativecommons.org/licenses/by-sa/3.0/ (Attribution Share Alike). Please attribute work to Ian Lunn simply by leaving these comments in the source code or if you'd prefer, place a link on your website to http://www.ianlunn.co.uk/.
-*/
 body {
   min-width: 980px;
-  background: #fcfcfb;
   color: #1F1916;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background: #fcfcfb url("/images/buffalo1.jpg") 0 0 repeat fixed; }
 
 #nav {
   list-style: none;
@@ -76,93 +65,71 @@ section {
       #links li a:hover {
         text-decoration: underline; }
 
-#intro {
-  background: url("/images/buffalo1.jpg") 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto;
-  height: 800px; }
-  #intro article {
-    padding-top: 0; }
-    #intro article p {
-      font-size: 25px;
-      max-width: 700px; }
-      #intro article p span {
-        display: block;
-        font-size: 14px; }
-    #intro article h1 {
-      padding-top: 160px;
-      font-family: "SubtleSansRegularRegular";
-      line-height: 145px;
-      font-size: 200px;
-      text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
-      text-align: right;
-      padding-bottom: 110px;
-      background-image: url(/images/coworkbuffalo.png);
-      background-position: 60px 105%;
-      background-repeat: repeat-x; }
-      #intro article h1 span {
-        font-size: 189px;
-        font-family: "SubtleSansLightRegular"; }
-
-#where {
-  background: url("/images/buffalo2.jpg") 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto; }
-
-#plans {
-  background: url("/images/buffalo3.jpg") 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto; }
-  #plans p {
-    margin-left: 515px;
+#intro article {
+  padding-top: 0; }
+  #intro article p {
+    font-size: 25px;
+    max-width: 700px; }
+    #intro article p span {
+      display: block;
+      font-size: 14px; }
+  #intro article h1 {
+    padding-top: 160px;
+    font-family: "SubtleSansRegularRegular";
+    line-height: 145px;
+    font-size: 200px;
+    text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
     text-align: right;
-    max-width: 460px; }
-  #plans h2 {
-    text-align: right; }
+    padding-bottom: 110px;
+    background-image: url(/images/coworkbuffalo.png);
+    background-position: 60px 105%;
+    background-repeat: repeat-x; }
+    #intro article h1 span {
+      font-size: 189px;
+      font-family: "SubtleSansLightRegular"; }
 
-#community {
-  background: url("/images/buffalo4.jpg") 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto; }
-  #community .slider-wrapper {
-    margin-top: 55px;
-    margin-bottom: 0;
-    margin-right: 5px;
-    float: right; }
-    #community .slider-wrapper .nivoSlider {
-      margin-bottom: 3px; }
-    #community .slider-wrapper p {
-      font-size: 11px;
-      text-align: right;
-      margin: 0;
-      width: 100%; }
+#plans p {
+  margin-left: 515px;
+  text-align: right;
+  max-width: 460px; }
+#plans h2 {
+  text-align: right; }
 
-#contact {
-  background: url("/images/buffalo5.jpg") 0 0 repeat fixed;
-  height: 500px;
-  margin: 0 auto; }
-  #contact p {
-    margin-left: 515px;
+#community .slider-wrapper {
+  margin-top: 55px;
+  margin-bottom: 0;
+  margin-right: 5px;
+  float: right; }
+  #community .slider-wrapper .nivoSlider {
+    margin-bottom: 3px; }
+  #community .slider-wrapper p {
+    font-size: 11px;
     text-align: right;
-    max-width: 460px; }
-  #contact h2 {
-    text-align: right; }
-  #contact #buffalo {
-    margin-top: 60px;
-    float: left; }
-  #contact #brought {
-    text-align: right;
-    margin-top: 10px; }
-    #contact #brought ul {
-      list-style: none; }
-      #contact #brought ul li {
-        display: inline-block;
-        padding: 0;
-        margin: 0; }
-        #contact #brought ul li img {
-          width: 75px;
-          height: 75px;
-          border: 3px solid black; }
+    margin: 0;
+    width: 100%; }
+
+#contact p {
+  margin-left: 515px;
+  text-align: right;
+  max-width: 460px; }
+#contact h2 {
+  text-align: right; }
+#contact #buffalo {
+  margin-top: 60px;
+  float: left; }
+#contact #brought {
+  text-align: right;
+  margin-top: 10px; }
+  #contact #brought ul {
+    list-style: none; }
+    #contact #brought ul li {
+      display: inline-block;
+      padding: 0;
+      margin: 0; }
+      #contact #brought ul li img {
+        width: 75px;
+        height: 75px;
+        border: 3px solid black; }
 
 #herd {
   float: left;

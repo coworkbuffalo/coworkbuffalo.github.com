@@ -124,21 +124,16 @@ section {
   background: url("/images/buffalo4.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
-  #community p {
-    margin-left: 515px;
-    text-align: right;
-    max-width: 460px; }
-  #community h2 {
-    text-align: right; }
   #community .slider-wrapper {
     margin-top: 55px;
     margin-bottom: 0;
     margin-right: 5px;
-    float: left; }
+    float: right; }
     #community .slider-wrapper .nivoSlider {
       margin-bottom: 3px; }
     #community .slider-wrapper p {
       font-size: 11px;
+      text-align: right;
       margin: 0;
       width: 100%; }
 
@@ -146,12 +141,17 @@ section {
   background: url("/images/buffalo5.jpg") 0 0 repeat fixed;
   height: 500px;
   margin: 0 auto; }
+  #contact p {
+    margin-left: 515px;
+    text-align: right;
+    max-width: 460px; }
+  #contact h2 {
+    text-align: right; }
   #contact #buffalo {
     margin-top: 60px;
-    float: right; }
+    float: left; }
   #contact #brought {
-    text-align: left;
-    float: left;
+    text-align: right;
     margin-top: 10px; }
     #contact #brought ul {
       list-style: none; }

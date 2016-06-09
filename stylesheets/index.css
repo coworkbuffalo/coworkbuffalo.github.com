@@ -101,7 +101,8 @@ section {
   margin-right: 5px;
   float: right; }
   #community .slider-wrapper .nivoSlider {
-    margin-bottom: 3px; }
+    width: 500px;
+    margin-top: 10px; }
   #community .slider-wrapper p {
     font-size: 11px;
     text-align: right;

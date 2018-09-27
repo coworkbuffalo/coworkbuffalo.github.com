@@ -265,7 +265,7 @@ section {
     #faq article > ul > li p {
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-size: 14px;
-/*      margin-bottom: 10px; */
+      margin-bottom: 10px;
      }
     #faq article > ul > li blockquote {
       padding: 5px 15px;
@@ -280,7 +280,7 @@ section {
         width: 90%;
         font-size: 13px;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-/*        padding-bottom: 5px; */
+        padding-bottom: 5px; 
       }
     #faq article > ul > li a, #faq article > ul > li a:visited {
       color: #666; }
@@ -452,13 +452,14 @@ section {
     .longform article ul {
       list-style: disc inside;
       margin-bottom: 10px; }
-      .longform article ul li {
-        margin-bottom: 5px; }
+/*      .longform article ul li { */
+/*        margin-bottom: 5px; }  */
         .longform article ul li p {
           margin: 0; }
     .longform article p {
       line-height: 18px;
-      margin-bottom: 15px; }
+/*      margin-bottom: 15px; */
+    }
     .longform article a, .longform article a:visited {
       color: #000; }
     .longform article img {

@@ -459,6 +459,8 @@ section {
     .longform article p {
       line-height: 18px;
       margin-bottom: 15px;
+      font-size: larger;
+      line-height: normal;
     }
     .longform article a, .longform article a:visited {
       color: #000; }

@@ -21,7 +21,7 @@ Thank you to the roughly 300 people who came through our doors at one time or an
 (Kevin Purdy, Nick Quaranto, Kevin Christner, Mike Macaluso, Dan Magnuszewski)
 
 * ### When is the last day I can work at CoworkBuffalo?
-Friday, Nov. 2, 2018. After that, we cannot guarantee that we'll have desks, Wi-Fi, or other equipment, as we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people.
+**Friday, Nov. 2, 2018.** After that, we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people.
   
 * ### What happens to my membership? What if I am due to get billed mid-October?
 We will not charge any monthly members after Sept. 30. We bill for the month ahead, and we don't want anyone paying for a space they can't use. If you would normally be billed in mid-October, and want to work at the space after that day, you can buy day passes as a member at a heavy discount ($7.50 per day) to finish out the last month with us. If you _do_ somehow get billed in October, or have any other questions about your account, please [let us know](mailto:work@coworkbuffalo.com).

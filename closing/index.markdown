@@ -36,10 +36,10 @@ You will have to change your address for those items before Nov. 2, 2018. We can
 We'd ask you to have your items removed from Cowork by the last day of working, Friday, Nov. 2, 2018. Otherwise, you'll have to [contact us](mailto:work@coworkbuffalo.com) and arrange a time to pick up your stuff.
 
 * ### Are there other coworking spaces I can go?
- * We wish there were more; that's why we started this thing.
- * There is [dig](http://innovationcenterbuffalo.org/spaces/coworking/) in the Buffalo Niagara Medical Campus' Innovation Center, [640 Ellicott St., Buffalo](https://www.google.com/maps/place/dig+Buffalo/@42.896301,-78.8711137,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3125bc9c53d7b:0x4c92fbab922b4d0c!8m2!3d42.896301!4d-78.868925). We recommend you contact them ahead of showing up to ensure there is space for a day visit or new membership.
- * [The Annex](https://the-annex-coworking-space.business.site/) on [West Ferry near Grant St.](https://www.google.com/maps/place/The+Annex/@42.9151359,-78.8909337,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3131c98eea1ef:0x4d7d93e57e3c69c0!8m2!3d42.9151359!4d-78.888745) offers office and kitchen space specifically for growing food-based businesses.
- * Please [let us know](mailto:work@coworkbuffalo.com) if we missed one.
+  * We wish there were more; that's why we started this thing.
+  * There is [dig](http://innovationcenterbuffalo.org/spaces/coworking/) in the Buffalo Niagara Medical Campus' Innovation Center, [640 Ellicott St., Buffalo](https://www.google.com/maps/place/dig+Buffalo/@42.896301,-78.8711137,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3125bc9c53d7b:0x4c92fbab922b4d0c!8m2!3d42.896301!4d-78.868925). We recommend you contact them ahead of showing up to ensure there is space for a day visit or new membership.
+  * [The Annex](https://the-annex-coworking-space.business.site/) on [West Ferry near Grant St.](https://www.google.com/maps/place/The+Annex/@42.9151359,-78.8909337,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3131c98eea1ef:0x4d7d93e57e3c69c0!8m2!3d42.9151359!4d-78.888745) offers office and kitchen space specifically for growing food-based businesses.
+  * Please [let us know](mailto:work@coworkbuffalo.com) if we missed one.
 
 * ### Why couldn't you keep the business going? Or sell it? Or move it somewhere cheaper?
 We briefly discussed selling CoworkBuffalo with a few interested parties. Ultimately, though, this was a business that was run by a group of people, those people no longer can run that business the right way, and we don't want to sell the name, find another home, or run a diminished version of our business under the same or different name.
@@ -60,11 +60,11 @@ We don't know, but we hope to see more businesses make use of Main Street, speci
 [Desktime](http://desktimeapp.com/) (also known as [Mx. Desk](http://mxdesk.com/)) will continue to be available to shared working spaces everywhere. Nick Quaranto now owns and maintains Desktime/Mx. Desk solely. Desktime is good at running coworking spaces, and it's slowly getting better with Nick's stewardship.
 
 * ### What's the best thing to get at Sue's Deli?
- * Kevin P - Avocado Wrap with Hungarian Mushroom soup.
- * Nick Q - Half + Half Salad, Tuna Salad / Feta + Spinach.
- * Kevin C - Chicken Souvlaki Wrap
- * Mike M - Chicken Veggie Wrap 
- * Dan M - Falafel Roll-Up
+  * Kevin P - Avocado Wrap with Hungarian Mushroom soup.
+  * Nick Q - Half + Half Salad, Tuna Salad / Feta + Spinach.
+  * Kevin C - Chicken Souvlaki Wrap
+  * Mike M - Chicken Veggie Wrap 
+  * Dan M - Falafel Roll-Up
 
 * ### I have more questions!
 Sure, just email us at [work@coworkbuffalo.com](mailto:work@coworkbuffalo.com) and we’ll do our best. Thank you for being with us as we built a small but useful thing in Buffalo.

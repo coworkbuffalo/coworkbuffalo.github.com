@@ -20,7 +20,7 @@ Thank you to the roughly 300 people who came through our doors at one time or an
 ~ The CoworkBuffalo partners
 (Kevin Purdy, Nick Quaranto, Kevin Christner, Mike Macaluso, Dan Magnuszewski)
 
-### When is the last day I can work at CoworkBuffalo?
+### **When is the last day I can work at CoworkBuffalo?**
 Friday, Nov. 2, 2018. After that, we cannot guarantee that we'll have desks, Wi-Fi, or other equipment, as we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people.
   
 ### What happens to my membership? What if I am due to get billed mid-October?

@@ -15,7 +15,7 @@ CoworkBuffalo has always been a part-time, off-hours project for the co-founders
 
 We will miss seeing people help each other out when it was not their job to do so. We will miss the inside jokes, the people finding us from all over the country and world, the feeling of contributing in our small way to a still-growing part of downtown. And we will dearly miss having a default excuse to get lunch from [Sue's Deli](https://www.suesnydeli.com/).
 
-Thank you to the roughly 300 people who came through our doors at one time or another. Thank you to the [107 Kickstarter backers](https://www.kickstarter.com/projects/coworkbuffalo/coworkbuffalo-2-more-space-work-and-community?) who helped us move into this place. Thank you to everyone who hosted a meeting here, referred a friend, or said something nice about us, in-person or on social media. We hope we can answer any questions you have on this page.
+Thank you to the roughly 300 people who came through our doors at one time or another, not including meet-ups and [30-hour VJ world record attempts](https://www.buffalorising.com/2014/07/help-squeaky-wheel-set-a-vj-world-record/). Thank you to the [107 Kickstarter backers](https://www.kickstarter.com/projects/coworkbuffalo/coworkbuffalo-2-more-space-work-and-community?) who helped us move into this place. Thank you to everyone who hosted a meeting here, referred a friend, or said something nice about us, in-person or on social media. We hope we can answer any questions you have on this page.
 
 ~ The CoworkBuffalo partners
 (Kevin Purdy, Nick Quaranto, Kevin Christner, Mike Macaluso, Dan Magnuszewski)

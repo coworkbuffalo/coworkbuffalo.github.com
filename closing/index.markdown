@@ -35,7 +35,7 @@ You will have to change your address for those items before Nov. 2, 2018. We can
 * ### I have a few things at CoworkBuffalo. When do I need to have them out of there?
 We'd ask you to have your items removed from Cowork by the last day of working, Friday, Nov. 2, 2018. Otherwise, you'll have to [contact us](mailto:work@coworkbuffalo.com) and arrange a time to pick up your stuff.
 
-* ### Are there other coworking spaces I can go?
+* ### Are there other coworking spaces I can work in Buffalo?
   * We wish there were more; that's why we started this thing.
   * There is [dig](http://innovationcenterbuffalo.org/spaces/coworking/) in the Buffalo Niagara Medical Campus' Innovation Center, [640 Ellicott St., Buffalo](https://www.google.com/maps/place/dig+Buffalo/@42.896301,-78.8711137,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3125bc9c53d7b:0x4c92fbab922b4d0c!8m2!3d42.896301!4d-78.868925). We recommend you contact them ahead of showing up to ensure there is space for a day visit or new membership.
   * [The Annex](https://the-annex-coworking-space.business.site/) on [West Ferry near Grant St.](https://www.google.com/maps/place/The+Annex/@42.9151359,-78.8909337,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3131c98eea1ef:0x4d7d93e57e3c69c0!8m2!3d42.9151359!4d-78.888745) offers office and kitchen space specifically for growing food-based businesses.

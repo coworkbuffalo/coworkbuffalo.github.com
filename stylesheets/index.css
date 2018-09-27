@@ -449,16 +449,16 @@ section {
       font-style: italic;
       font-weight: normal;
       margin-bottom: 10px; }
-    .longform article ul {
+/*    .longform article ul {
       list-style: disc inside;
       margin-bottom: 10px; }
-/*      .longform article ul li { */
-/*        margin-bottom: 5px; }  */
+      .longform article ul li { 
+        margin-bottom: 5px; }  
         .longform article ul li p {
           margin: 0; }
     .longform article p {
       line-height: 18px;
-/*      margin-bottom: 15px; */
+      margin-bottom: 15px; */
     }
     .longform article a, .longform article a:visited {
       color: #000; }

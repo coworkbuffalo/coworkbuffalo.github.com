@@ -5,7 +5,7 @@ subtitle: Closed as of Nov. 2, 2018
 id: faq
 ---
 
-## To our fellow co-workers:
+### To our fellow co-workers:
 
 **CoworkBuffalo will be going out of business on Friday, Nov. 2, 2018**. After that day, our space will not be available to customers, existing or new. We will spend the month of November emptying the space, cleaning up, and tying up all the loose ends of more than six years in business. We have answered some questions you might have about what that means for you a little further below.
 
@@ -22,7 +22,7 @@ Thank you to the roughly 300 people who came through our doors at one time or an
 
 * ### When is the last day I can work at CoworkBuffalo?
 **Friday, Nov. 2, 2018.** After that, we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people.
-  
+
 * ### What happens to my membership? What if I am due to get billed mid-October?
 We will not charge any monthly members after Sept. 30. We bill for the month ahead, and we don't want anyone paying for a space they can't use. If you would normally be billed in mid-October, and want to work at the space after that day, you can buy day passes as a member at a heavy discount ($7.50 per day) to finish out the last month with us. If you _do_ somehow get billed in October, or have any other questions about your account, please [let us know](mailto:work@coworkbuffalo.com).
 
@@ -63,7 +63,7 @@ We don't know, but we hope to see more businesses make use of Main Street, speci
   * Kevin P - Avocado Wrap with Hungarian Mushroom soup.
   * Nick Q - Half + Half Salad, Tuna Salad / Feta + Spinach.
   * Kevin C - Chicken Souvlaki Wrap
-  * Mike M - Chicken Veggie Wrap 
+  * Mike M - Chicken Veggie Wrap
   * Dan M - Falafel Roll-Up
 
 * ### I have more questions!

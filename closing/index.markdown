@@ -2,7 +2,7 @@
 layout: subpage
 title: CoworkBuffalo Is Closing
 subtitle: Closed as of Nov. 2, 2018
-id: closing
+id: faq
 ---
 
 ## To our fellow co-workers:

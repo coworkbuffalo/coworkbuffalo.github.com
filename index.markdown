@@ -47,7 +47,7 @@ We'd ask you to have your items removed from Cowork by the last day of working, 
 We briefly discussed selling CoworkBuffalo with a few interested parties. Ultimately, though, this was a business that was run by a group of people, those people no longer can run that business the right way, and we don't want to sell the name, find another home, or run a diminished version of our business under the same or different name.
 
 * ### Are you selling any of the furniture, electronics, or other items from Cowork?
-We plan to sell as much of our stuff as possible to a few businesses, or ideally a coworking-style space. We may post individual items for sale soon; we will follow up if so. You can [email us](mailto:work@coworkbuffalo.com) if you have a particular item in mind.
+We plan to sell as much of our stuff as possible to a few businesses, or ideally a coworking-style space. We may post individual items for sale soon; we will follow up if so. **Sorry, we can't sell the standing desks.** You can [email us](mailto:work@coworkbuffalo.com) if you have a particular item in mind.
 
 * ### Will there be a gathering of some kind to properly say goodbye to this long, strange trip?
 We think so, yes. Stay tuned.

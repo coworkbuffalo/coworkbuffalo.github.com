@@ -41,6 +41,7 @@ We'd ask you to have your items removed from Cowork by the last day of working, 
   * [Inception Buffalo](https://www.usitek.com/services-solutions/coworking-incubation-space/) is at [1016 Niagara Falls Blvd. in Tonawanda](https://www.google.com/maps/place/1016+Niagara+Falls+Blvd,+Tonawanda,+NY+14150/@42.9819093,-78.8256354,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3726452af8925:0xc8b36b0d2574e07c!8m2!3d42.9819093!4d-78.8234467) that looks to have a similar open style and amenities to CoworkBuffalo.
   * [The Loft](http://loftbuffalo.com/) is [right by the airport](https://www.google.com/maps/place/600+Cayuga+Rd,+Buffalo,+NY+14225/@42.9469364,-78.7465906,17z/data=!4m5!3m4!1s0x89d3749f8a443e37:0x710f08899802120!8m2!3d42.948083!4d-78.7449705) and offers 3-day trial purchases for new members.
   * [The Annex](https://the-annex-coworking-space.business.site/) on [West Ferry near Grant St.](https://www.google.com/maps/place/The+Annex/@42.9151359,-78.8909337,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3131c98eea1ef:0x4d7d93e57e3c69c0!8m2!3d42.9151359!4d-78.888745) offers office and kitchen space specifically for growing food-based businesses.
+  * [The Guild @ 980](https://www.guild980.org/) rents space to solo and small businesses, particularly those with a trade, craft, or creative angle.
   * Please [let us know](mailto:work@coworkbuffalo.com) if we missed one.
 
 * ### Why couldn't you keep the business going? Or sell it? Or move it somewhere cheaper?

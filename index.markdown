@@ -20,20 +20,20 @@ Thank you to the roughly 300 people who came through our doors at one time or an
 ~ The CoworkBuffalo partners
 (Kevin Purdy, Nick Quaranto, Kevin Christner, Mike Macaluso, Dan Magnuszewski)
 
-* ### When is the last day I can work at CoworkBuffalo?
-**Friday, Nov. 2, 2018.** After that, we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people.
+<!-- * ### When is the last day I can work at CoworkBuffalo?
+**Friday, Nov. 2, 2018.** After that, we'll be shutting off services and selling or donating nearly everything in the space. It will probably be noisy, too. And we need some time to focus on our huge list of to-dos without bothering people. -->
 
-* ### What happens to my membership? What if I am due to get billed mid-October?
-We will not charge any monthly members after Sept. 30. We bill for the month ahead, and we don't want anyone paying for a space they can't use. If you would normally be billed in mid-October, and want to work at the space after that day, you can buy day passes as a member at a heavy discount ($7.50 per day) to finish out the last month with us. If you _do_ somehow get billed in October, or have any other questions about your account, please [let us know](mailto:work@coworkbuffalo.com).
+<!-- * ### What happens to my membership? What if I am due to get billed mid-October?
+We will not charge any monthly members after Sept. 30. We bill for the month ahead, and we don't want anyone paying for a space they can't use. If you would normally be billed in mid-October, and want to work at the space after that day, you can buy day passes as a member at a heavy discount ($7.50 per day) to finish out the last month with us. If you _do_ somehow get billed in October, or have any other questions about your account, please [let us know](mailto:work@coworkbuffalo.com). -->
 
-* ### I have a 10-pack with some days left on it. What can I do with it?
-Generally, we'd suggest you use it as soon as you can! Most of the 10-packs we sold over the years technically expired after 3 months, and later 6 months―eventually, we stopped making them expire, and we were always pretty forgiving. Until Nov. 2, 2018, you can use any 10-packs "punches" you have left, whenever you bought them. After Nov. 2, we can't offer you any more coworking, and all 10-packs will expire.
+<!-- * ### I have a 10-pack with some days left on it. What can I do with it?
+Generally, we'd suggest you use it as soon as you can! Most of the 10-packs we sold over the years technically expired after 3 months, and later 6 months―eventually, we stopped making them expire, and we were always pretty forgiving. Until Nov. 2, 2018, you can use any 10-packs "punches" you have left, whenever you bought them. After Nov. 2, we can't offer you any more coworking, and all 10-packs will expire. -->
 
-* ### What about mail and packages I'm having sent to Cowork?
-You will have to change your address for those items before Nov. 2, 2018. We cannot guarantee that we will be at the space when packages and mail arrive after that date, though we will do our best to catch the mail and notify members of package slips. Now is a good time to review the mail you get at CoworkBuffalo and contact the senders to change your address―the earlier the better. You should also remove Cowork's address from any sites you buy from (Amazon, in particular) so you don't accidentally have one sent here. We will try to have Cowork's mail forwarded somewhere the founders can access it, but obviously it will be much slower getting your mail and packages notices to you.
+<!-- * ### What about mail and packages I'm having sent to Cowork?
+You will have to change your address for those items before Nov. 2, 2018. We cannot guarantee that we will be at the space when packages and mail arrive after that date, though we will do our best to catch the mail and notify members of package slips. Now is a good time to review the mail you get at CoworkBuffalo and contact the senders to change your address―the earlier the better. You should also remove Cowork's address from any sites you buy from (Amazon, in particular) so you don't accidentally have one sent here. We will try to have Cowork's mail forwarded somewhere the founders can access it, but obviously it will be much slower getting your mail and packages notices to you. -->
 
-* ### I have a few things at CoworkBuffalo. When do I need to have them out of there?
-We'd ask you to have your items removed from Cowork by the last day of working, Friday, Nov. 2, 2018. Otherwise, you'll have to [contact us](mailto:work@coworkbuffalo.com) and arrange a time to pick up your stuff.
+<!-- * ### I have a few things at CoworkBuffalo. When do I need to have them out of there?
+We'd ask you to have your items removed from Cowork by the last day of working, Friday, Nov. 2, 2018. Otherwise, you'll have to [contact us](mailto:work@coworkbuffalo.com) and arrange a time to pick up your stuff. -->
 
 * ### Are there other coworking spaces I can work in Buffalo?
   * There is [dig](http://innovationcenterbuffalo.org/spaces/coworking/) in the Buffalo Niagara Medical Campus' Innovation Center, [640 Ellicott St., Buffalo](https://www.google.com/maps/place/dig+Buffalo/@42.896301,-78.8711137,17z/data=!3m1!4b1!4m5!3m4!1s0x89d3125bc9c53d7b:0x4c92fbab922b4d0c!8m2!3d42.896301!4d-78.868925). We recommend you contact them ahead of showing up to ensure there is space for a day visit or new membership.
@@ -47,11 +47,11 @@ We'd ask you to have your items removed from Cowork by the last day of working, 
 * ### Why couldn't you keep the business going? Or sell it? Or move it somewhere cheaper?
 We briefly discussed selling CoworkBuffalo with a few interested parties. Ultimately, though, this was a business that was run by a group of people, those people no longer can run that business the right way, and we don't want to sell the name, find another home, or run a diminished version of our business under the same or different name.
 
-* ### Are you selling any of the furniture, electronics, or other items from Cowork?
-We plan to sell as much of our stuff as possible to a few businesses, or ideally a coworking-style space. We may post individual items for sale soon; we will follow up if so. **Sorry, we can't sell the standing desks.** You can [email us](mailto:work@coworkbuffalo.com) if you have a particular item in mind.
+<!-- * ### Are you selling any of the furniture, electronics, or other items from Cowork?
+We plan to sell as much of our stuff as possible to a few businesses, or ideally a coworking-style space. We may post individual items for sale soon; we will follow up if so. **Sorry, we can't sell the standing desks.** You can [email us](mailto:work@coworkbuffalo.com) if you have a particular item in mind. -->
 
-* ### Will there be a gathering of some kind to properly say goodbye to this long, strange trip?
-We think so, yes. Stay tuned.
+<!-- * ### Will there be a gathering of some kind to properly say goodbye to this long, strange trip?
+We think so, yes. Stay tuned. -->
 
 * ### What are the founders doing after CoworkBuffalo closes?
 Generally, the full-time jobs that they've always had while running CoworkBuffalo, along with tending to their families, hobbies, side projects, and the like. A lot has changed in the six-plus years of CoworkBuffalo, and our lives are not less busy.
